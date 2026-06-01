@@ -8,27 +8,27 @@ relatedCalc: "food-cost"
 heroImage: "/illustrations/food-cost.webp"
 ---
 
-When food cost runs hot, the temptation is to fix everything at once. Tighten portions, renegotiate vendors, reprice the menu, retrain the line, install cameras, write up the closing manager. None of it works because none of it is targeted. The right approach is diagnostic, in order, smallest fix first. Here is the flowchart.
+When food cost runs hot, everybody wants to fix everything at once. Tighten portions, renegotiate vendors, reprice the menu, retrain the line, install cameras, write up the closing manager. None of it works, because none of it is aimed at anything. You're guessing. Work it like a diagnosis instead: in order, smallest fix first. Here's the flowchart.
 
 ## First, run the variance check
 
-Before investigating causes, calculate the gap between theoretical food cost (what your recipes predict) and actual food cost (what your inventory says you spent). That number is your variance.
+Before you go hunting for causes, get the gap between theoretical food cost (what your recipes predict) and actual food cost (what your inventory says you spent). That number is your variance, and it does most of the work for you.
 
-If theoretical says 30% and actual says 33%, your variance is 3 points. If theoretical says 30% and actual says 38%, variance is 8 points. The size of the variance points you at which causes to investigate first.
+If theoretical says 30% and actual says 33%, your variance is 3 points. If theoretical says 30% and actual says 38%, variance is 8 points. The size of the gap tells you which causes to chase first.
 
 **Small variance (1-3 points):** Pricing drift, recipe non-compliance.
 **Medium variance (3-5 points):** Portion drift, waste and spoilage.
 **Large variance (5+ points):** Theft, receiving fraud, or systematic operational failure.
 
-The diagnostic logic: bigger problems leave bigger fingerprints. A 1.5% variance is normal noise. An 8% variance has a specific cause and that cause is large enough to find.
+The logic is simple. Bigger problems leave bigger fingerprints. A 1.5% variance is just noise, don't lose sleep over it. An 8% variance has a real cause behind it, and that cause is big enough that you can actually find it.
 
 For the full theoretical-vs-actual calculation, see [Theoretical vs Actual Food Cost](/blog/theoretical-vs-actual-food-cost/).
 
 ## Cause 1: Outdated menu prices (cost went up, price didn't)
 
-The most common cause. Ingredient costs drift constantly. Menu prices don't.
+This is the one that gets almost everybody, and it's the most boring of the bunch. Ingredient costs creep up every week. Menu prices sit there for a year because nobody wants to be the one who raised the burger.
 
-Beef went from $4.20 to $4.65/lb? That is +10.7% on the protein. If the menu hasn't moved, a burger that costed at $4.10 plate cost now costs $4.31. On a $14 menu price, food cost moved from 29.3% to 30.8%. Replicate across the menu and you have a 1-2 point shift in aggregate food cost from pricing drift alone.
+Beef went from $4.20 to $4.65/lb? That's +10.7% on the protein. If the menu hasn't moved, a burger that costed at $4.10 plate cost now costs $4.31. On a $14 menu price, food cost moved from 29.3% to 30.8%. Now run that across the whole menu, and you've got a 1-2 point shift in aggregate food cost from pricing drift alone. You didn't do anything wrong. You just didn't do anything.
 
 **How to spot it:** Pull recipe costs (what your spec sheet says each plate costs) and compare to current invoice pricing. If the recipe says beef at $4.20 and your last invoice was $4.65, that recipe is undercosted.
 
@@ -36,7 +36,7 @@ Beef went from $4.20 to $4.65/lb? That is +10.7% on the protein. If the menu has
 
 ## Cause 2: Portion drift (especially proteins and cheese)
 
-Recipes say 6 oz of protein. Line is plating 6.5 oz. Recipes say 1 oz of cheese. Line is pulling 1.3 oz. Aggregate across a full shift and these add up.
+Recipe says 6 oz of protein. The line is plating 6.5. Recipe says 1 oz of cheese, the line is pulling 1.3. Nobody's stealing anything, they're just being generous with a free hand. Add half an ounce here and there across a whole shift and it stacks up fast.
 
 **Typical sizes of portion drift problems:**
 
@@ -47,23 +47,23 @@ Recipes say 6 oz of protein. Line is plating 6.5 oz. Recipes say 1 oz of cheese.
 
 **How to spot it:** Walk the line during service. Watch the plating. Pull 10 random plates and weigh them. Compare to spec.
 
-**How to fix it:** Visual spec sheets at every station. Weight checks during service. Manager spot-checks. Most portion drift fixes itself within 2 weeks of consistent oversight.
+**How to fix it:** Visual spec sheets at every station, a scale at the line, and a manager who actually looks. That's it. Most portion drift fixes itself within 2 weeks of someone paying attention, because the cooks knew the spec the whole time. They just stopped getting checked.
 
 ## Cause 3: Waste and spoilage (FIFO not enforced)
 
-Product going bad before it gets sold. The walk-in cooler is the diagnosis spot.
+Product going bad before you sell it. Go straight to the walk-in, that's where the body is buried.
 
-**The pattern:** New deliveries get placed in front of old product. The old product sits, hits its date, and gets thrown. Or product gets prepped too aggressively for forecasted volume and the prepped product can't survive multiple service days.
+**The pattern:** New deliveries get shoved in front of old product because it's faster than rotating. The old stuff sits in the back, hits its date, and goes in the trash. Or somebody preps a hotel pan of something for a Saturday that never came, and it can't survive three more service days.
 
 **Typical size of waste:** 1-3% of food cost. In an operation where someone is tracking it, often higher.
 
 **How to spot it:** Weigh the dumpster for a week. (Yes, really.) Or audit the walk-in for items past their date. Or compare prep waste tracking against forecast.
 
-**How to fix it:** Date everything. Rotate weekly. Prep against forecast, not against habit. Smaller, more frequent prep cycles for perishables.
+**How to fix it:** Date everything, rotate it so the old stuff is up front, and prep to the forecast instead of to what you prepped last week out of habit. For anything that dies fast, prep smaller and prep more often. It's more trips, but it beats throwing money in the dumpster.
 
 ## Cause 4: Theft and unauthorized comps
 
-This is the cause operators think of first. It is rarely the largest cause.
+This is the one everybody jumps to first, usually the closing manager they already don't trust. And nine times out of ten, it's the smallest number on this whole list. I'm not saying it never happens. I'm saying you're probably looking in the wrong place.
 
 **Patterns:**
 - Walk-out theft (staff taking food home)
@@ -77,37 +77,37 @@ This is the cause operators think of first. It is rarely the largest cause.
 
 **How to fix it:** Manager approval required for all comps and voids. POS tracking of who comped what and why. Spot-check inventory on high-risk items (premium liquor, expensive proteins). Camera placement in receiving and high-shrink areas.
 
-The theft is rarely a single bad actor. It is usually loose controls that allow small amounts to leak across many people.
+It's almost never one villain you can fire and be done with. It's usually loose controls letting a little bit leak out across a lot of people, none of whom think of themselves as a thief. Tighten the controls and most of it dries up on its own.
 
 ## Cause 5: Receiving fraud (short deliveries logged at full)
 
-The vendor delivers 38 cases. Your receiver checks "40 cases" on the invoice because they didn't actually count. Two cases of cost just hit your COGS without arriving as inventory.
+The vendor drops 38 cases. Your receiver signs the invoice for 40 because he was on his phone and didn't count. Two cases of cost just hit your COGS, and not one of them ever made it to a shelf.
 
 **How to spot it:** Audit a delivery yourself for a week. Compare actual count to invoice.
 
-**How to fix it:** Receivers count every item or weigh every box (depending on the product). Receivers sign for what they verified, not what the invoice says. Discrepancies get noted on the invoice before payment.
+**How to fix it:** The receiver counts every item or weighs every box, whichever fits the product. He signs for what he actually verified, not for whatever number the driver wrote down. Anything that doesn't match gets noted on the invoice before you pay it.
 
-This is more common than operators admit, and easier to fix than most other causes.
+This happens way more than anyone wants to admit, and it's one of the easiest things on this list to shut down. You just have to make somebody count.
 
 ## Cause 6: Recipe non-compliance / off-recipe substitutions
 
-The kitchen runs out of an ingredient. The cook substitutes a more expensive alternative without flagging it. Or the cook adds an extra component "to be generous." Or the cook follows their own recipe that they prefer over the spec.
+The kitchen runs out of something mid-service. Instead of flagging it, the cook reaches for a pricier sub and keeps moving. Or he throws in an extra handful of something "to be generous." Or he just cooks the version he likes better than the spec, because he's been doing it that way for ten years and nobody told him to stop.
 
 **Typical size:** 0.5-2% of food cost.
 
-**How to spot it:** Compare recipe spec to plated reality during a walk-the-line audit. Survey line cooks: "Do you ever change the recipe?" Answers are usually honest.
+**How to spot it:** Walk the line and compare the spec to what's actually landing on the plate. Then just ask the cooks straight: "Do you ever change the recipe?" You'd be surprised how honest they are. They're not hiding it, they think they're helping.
 
 **How to fix it:** Visual spec sheets posted at each station. Substitution rules in writing (when an ingredient is out, what is the approved substitute). Manager check-ins during prep and service.
 
 ## Cause 7: Sales mix shift toward high-FC items
 
-Your menu hasn't changed. Your customers' ordering pattern has. Maybe a new local trend toward steak. Maybe a promotion that lifted high-cost items. Maybe a price increase on lower-cost items that pushed customers to the high-cost ones.
+Your menu didn't change. Your customers did. Maybe everybody's suddenly ordering steak. Maybe a promo you ran pushed people toward the expensive stuff, or you bumped prices on the cheap items and accidentally made the steak look like the better deal. Either way, the plate costs are exactly what they always were.
 
 **The effect:** Same recipes, same operational excellence, food cost climbs because the *mix* of what is being ordered shifted toward higher-food-cost items.
 
 **How to spot it:** Pull sales mix from POS month-over-month. Look for material shifts in the top 20 items.
 
-**How to fix it:** This is usually not a fix; it is a recognition. The aggregate food cost can be healthy at the new mix even if the percentage looks higher. Run [contribution margin analysis](/blog/contribution-margin-vs-food-cost-percentage/) to see if total CM dollars are healthy despite the higher percentage.
+**How to fix it:** Usually you don't. There's nothing broken to fix here, you just need to recognize what's happening before you go tearing the kitchen apart looking for a leak that isn't there. The aggregate food cost can be totally healthy at the new mix even when the percentage looks ugly. Run [contribution margin analysis](/blog/contribution-margin-vs-food-cost-percentage/) and check whether your total CM dollars are fine despite the scarier-looking percentage. Most of the time, they are.
 
 ## The triage order
 
@@ -121,16 +121,16 @@ When food cost runs hot, investigate in this order:
 6. **Theft and comp audit** (ongoing): Pull POS comp data, watch high-risk inventory.
 7. **Sales mix analysis** (1 hour): Verify whether the shift is a problem or a recognition.
 
-Most food cost problems get diagnosed in the first three steps. The bigger investigations (waste, receiving, theft) only matter if the simpler causes don't account for the variance.
+Most food cost problems get caught in the first three steps. The big investigations, waste and receiving and theft, only matter if the easy stuff didn't already account for the gap. Don't skip ahead to the dramatic one just because it's more fun to be a detective.
 
 ## What this looks like in the calculator
 
-The [food cost calculator](/calculators/food-cost/) gives you the aggregate. The [inventory variance calculator](/calculators/inventory-variance/) gives you the gap to investigate. The diagnostic order above is the path from gap to root cause.
+The [food cost calculator](/calculators/food-cost/) gives you the aggregate number. The [inventory variance calculator](/calculators/inventory-variance/) gives you the gap to chase. The diagnostic order above is how you walk from that gap back to the actual cause.
 
 ## What to do today
 
-If your food cost is running hot, do not start with theft. Start with pricing drift and portion drift. The combined fix on those two causes often closes 60-70% of the variance gap and takes a single day of focused work.
+If your food cost is running hot, don't start with theft. Start with pricing drift and portion drift. Fixing those two together often closes 60-70% of the variance gap, and it takes about a day of actually focusing on it.
 
-Theft investigations are dramatic but rarely productive in the first round. Save the camera installation budget until you have ruled out the boring causes first.
+Theft investigations feel important. They make for a good story at the bar. But in the first round they almost never pay off, so sit on the camera budget until you've ruled out the boring stuff. The boring stuff is where your money went.
 
 Sources: [Toast](https://pos.toasttab.com/), [Restaurant365](https://www.restaurant365.com/), Restaurant Systems Pro (David Scott Peters), [Apicbase](https://get.apicbase.com/blog/), [MarginEdge](https://www.marginedge.com/blog/).

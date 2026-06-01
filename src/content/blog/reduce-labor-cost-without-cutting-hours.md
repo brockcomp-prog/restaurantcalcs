@@ -8,11 +8,11 @@ relatedCalc: "labor-cost"
 heroImage: "/illustrations/labor-cost.webp"
 ---
 
-When labor cost runs hot, the operator's first impulse is to cut hours. Send people home early. Trim a shift. Fire someone. Every one of those moves usually backfires within 2-3 weeks because the operation needed those hours; it just needed them at different times. The right approach is structural: change *when* you have hours scheduled, not *how many*.
+When labor cost runs hot, the first thing most operators do is cut hours. Send people home early, trim a shift, fire someone. And almost every time, that move backfires inside 2-3 weeks, because the operation actually needed those hours. It just needed them at different times of the day. So the fix isn't fewer hours. It's changing *when* you have them scheduled.
 
 ## Run an SPLH audit before touching the schedule
 
-Sales per labor hour (SPLH) is total sales divided by total labor hours for a period. Higher is more efficient. The metric tells you whether your scheduled labor produced enough revenue to be worth the cost.
+Sales per labor hour (SPLH) is total sales divided by total labor hours for a period. Higher is better. It tells you whether the labor you scheduled actually produced enough revenue to be worth what you paid for it.
 
 > **SPLH = Total Sales ÷ Total Labor Hours**
 
@@ -26,17 +26,17 @@ Target SPLH by segment:
 - **Bar (no kitchen):** $100-200
 - **Pizza (delivery + takeout):** $90-130
 
-Pull last 4 weeks of SPLH by shift. Find the worst shifts. Those are where the labor leak is. Cutting hours on already-tight shifts hurts service; fixing the SPLH-low shifts catches the leak without damage.
+Pull last 4 weeks of SPLH by shift and find the worst ones. That's where the labor leak is. Here's the part people get backwards: cutting hours on shifts that are already tight just wrecks your service. The shifts you want to go after are the low-SPLH ones, because that's where you can fix the leak without anybody on the floor feeling it.
 
 For full SPLH math, see [Sales Per Labor Hour: The Number That Tells You Who To Cut First](/blog/splh-shift-cuts/).
 
 ## Fix 1: Stagger shift starts
 
-The biggest single labor leak in most operations: everyone scheduled to start at 4pm for a 5:30pm dinner rush.
+The biggest single labor leak in most operations is dumb simple: everyone clocks in at 4pm for a 5:30pm dinner rush.
 
-The pattern: kitchen comes in at 4. Prep starts at 4. Servers come in at 4. Front-of-house side work starts at 4. Bar comes in at 4. From 4:00 to 5:00, everyone is doing prep that could have started earlier. From 5:00 to 5:30, everyone is finishing prep and getting ready. The first guest hits at 5:30 and now the team is actually working at full capacity.
+Watch how it actually plays out. Kitchen comes in at 4. Prep starts at 4. Servers come in at 4, side work starts at 4, bar comes in at 4. From 4:00 to 5:00 the whole crew is grinding through prep that could have started earlier. From 5:00 to 5:30 everybody's finishing prep and getting set. Then the first guest walks in at 5:30 and only now is the team actually working at full capacity.
 
-That hour of "everyone at 4" is mostly unproductive labor. On a 6-person team at $20/hour fully loaded, that is **$120/night of paid prep time** that produced limited revenue.
+That hour of "everyone at 4" is mostly paid standing-around. On a 6-person team at $20/hour fully loaded, that's **$120/night of paid prep time** that barely touched the register.
 
 The fix: stagger starts based on what each role needs.
 
@@ -48,13 +48,13 @@ The fix: stagger starts based on what each role needs.
 - Host: 5:00pm
 - Manager: 4:00pm (sets up, runs preshift, oversees)
 
-The labor cost stays similar for the *night* but the productive ratio improves dramatically. The customer-facing portion of the shift starts producing revenue immediately because prep is staged before the first guest.
+Your total labor for the *night* barely moves. What changes is how much of that labor is pointed at a paying customer instead of a prep table. The floor starts making money the minute it opens, because the prep is already done before the first guest sits down.
 
 Typical savings: **2-4 labor hours per night** = $40-80 per night = $2,000-4,000 per month.
 
 ## Fix 2: Cross-train so one server can run food, host can bus
 
-Cross-training is the labor lever that operators overlook because it requires training time up front. The payback is that one person can cover multiple roles when volume is low.
+Cross-training is the lever everyone skips, because it costs you training time up front and the payoff isn't tonight. But once it's done, one person can cover two or three roles on a slow night instead of you carrying bodies you don't need.
 
 **Front-of-house cross-training:**
 - Servers learn host duties (greeting, seating)
@@ -67,7 +67,7 @@ Cross-training is the labor lever that operators overlook because it requires tr
 - Prep cooks learn line stations for cover
 - Dishwasher learns light prep
 
-When a shift is slower than forecast, cross-trained staff can cover multiple roles instead of standing around. A 6-person scheduled shift can run at 4 people when volume is slow, with each person covering more than one function.
+When a shift comes in slower than you forecast, cross-trained people cover the gaps instead of standing around watching each other. A shift you scheduled for 6 can run on 4 when it's slow, with everybody picking up a second job.
 
 Typical savings: **15-25% of labor on slower shifts** through coverage flexibility.
 
@@ -75,9 +75,9 @@ The investment: 2-4 weeks of paid training time per cross-train (server learns b
 
 ## Fix 3: Forecast-based scheduling
 
-Most independent operators schedule by gut. "Last Saturday we had Y people, so this Saturday we'll do Y again." That works when business is stable. It fails when business is shifting (which is most of the time).
+Most independent operators schedule by gut. "Last Saturday we ran Y people, so this Saturday we'll run Y again." That's fine when business holds steady. It falls apart the second business moves, which is basically always.
 
-The discipline: 
+Here's the discipline: 
 
 1. Pull last 4-6 weeks of same-day-of-week sales.
 2. Calculate weighted average (weight recent weeks higher).
@@ -87,15 +87,15 @@ The discipline:
 
 **Worked example:** Saturday night forecast of $9,400 in sales. Labor target 28%. Labor budget: $2,632. At $19/hour fully loaded average, that is 138 labor hours. Build the schedule against 138 hours, not against "last Saturday we used 145."
 
-The discipline catches over-scheduling before it happens. Operations that adopt forecast-based scheduling typically reduce labor cost by **2-3 points** within 60 days without any reduction in service quality.
+This catches over-scheduling before it lands on a printed schedule, instead of after, when you're staring at a labor number you can't fix. Operations that switch to forecast-based scheduling usually pull labor cost down **2-3 points** inside 60 days, and service doesn't suffer for it.
 
 ## Fix 4: Kill overtime before it lands
 
-Overtime costs 1.5x base wage. A line cook earning $20 base ($25 fully loaded) costs $30 base in overtime ($37.50 fully loaded). Six hours of overtime per week = $225 extra labor that produces the same output as straight time.
+Overtime costs 1.5x base wage. A line cook earning $20 base ($25 fully loaded) costs $30 base in overtime ($37.50 fully loaded). Six hours of overtime a week is $225 in extra labor for output you'd have gotten at straight time anyway. You're paying time-and-a-half for nothing.
 
-The pattern: managers don't track running hours through the week. Someone hits 40 hours by Friday afternoon and any Friday-night or Saturday shift is overtime.
+And it almost always happens the same way: nobody's watching running hours through the week. Someone quietly hits 40 by Friday afternoon, so any Friday-night or Saturday shift they touch is overtime, and you don't find out until you run payroll.
 
-The fix: real-time OT tracking. Most modern POS / time clock systems flag when an employee approaches 40 hours. Managers can adjust the rest of the week to keep total under 40 (or accept the OT as worth it).
+The fix is real-time OT tracking. Most modern POS and time-clock systems will flag an employee creeping up on 40 hours, which gives the manager a chance to shuffle the back half of the week and stay under, or to look at it and decide the OT is actually worth it. Both are fine. Flying blind isn't.
 
 Common over-spent OT scenarios:
 - Saturday shift that pushes an employee from 36 to 44 hours (8 hours of OT)
@@ -106,9 +106,9 @@ Typical savings: **$300-1,200/month** depending on operation size, just from tra
 
 ## Fix 5: Cut labor through retention
 
-The math nobody runs: turnover costs more than over-staffing.
+Here's the math almost nobody runs: turnover costs you way more than over-staffing ever will.
 
-A single hourly quit costs **$5,864** (HigherMe Restaurant Turnover Report 2024). Avoid one quit per quarter and you have saved $23,456 a year. That dwarfs the typical $5-10K labor savings from over-scheduling fixes.
+A single hourly quit runs **$5,864** (HigherMe Restaurant Turnover Report 2024). Stop one quit a quarter and that's $23,456 saved over the year. That number swallows the typical $5-10K you'd save from all the over-scheduling fixes above combined. This is the one I'd chase first.
 
 Retention spend that consistently pays:
 
@@ -129,16 +129,16 @@ Track these weekly:
 4. **Turnover rate** (annualized). Target: industry minus 15-25 points.
 5. **Schedule adherence**: how many shifts started/ended on the scheduled time vs adjusted. Target: 90%+.
 
-The dashboard for these is one spreadsheet, updated Monday morning. Operations that track these consistently outperform operations that track only the aggregate labor cost percentage.
+The dashboard for all five is one spreadsheet you update Monday morning. Nothing fancy. The operators who watch these five every week run circles around the ones staring at a single aggregate labor cost percentage and wondering why it won't budge.
 
 ## What this looks like in the calculator
 
-The [labor cost calculator](/calculators/labor-cost/) on this site computes both labor cost % and SPLH. Pair with the [prime cost calculator](/calculators/prime-cost/) for the combined view against benchmarks. The variance against target is the budget for retention investment.
+The [labor cost calculator](/calculators/labor-cost/) on this site runs both labor cost % and SPLH for you. Pair it with the [prime cost calculator](/calculators/prime-cost/) to see the whole picture against benchmarks. Whatever you come in under target is your budget for the retention stuff that actually keeps people.
 
 ## What to do today
 
-Pull last week's shifts by daypart. Calculate SPLH for each shift. Identify the bottom 3 shifts by SPLH. Those are where the labor leak is. Then look at when each role arrives in those shifts. If everyone arrives at the same time, the staggered-start fix alone closes most of the gap.
+Pull last week's shifts by daypart and calculate SPLH for each one. Find the bottom 3. That's your leak. Now look at when each role clocks in on those shifts. If everybody's punching in at the same time, the staggered-start fix by itself closes most of the gap, and you haven't sent a single person home.
 
-The labor cost discipline isn't about cutting people. It is about scheduling them at the right times. The two are very different.
+None of this is about cutting people. It's about putting them on the clock at the right times. Those two are not the same thing, no matter how the labor number makes you feel on a Monday.
 
 Sources: [7shifts](https://www.7shifts.com/blog/), [Toast](https://pos.toasttab.com/), [HigherMe Restaurant Turnover Report](https://www.higherme.com/), NRA 2024 Industry Factbook, [Restaurant365](https://www.restaurant365.com/).

@@ -8,27 +8,27 @@ relatedCalc: "menu-pricing"
 heroImage: "/illustrations/menu-pricing.webp"
 ---
 
-How you write a price on the menu changes how customers respond to it. The same $14.99 burger and $15 burger sell at different rates depending on the context. The same menu with dollar signs versus without dollar signs produces different average checks. Decades of pricing psychology research show specific patterns. Here is the operator-relevant version.
+How you write a price on the menu changes how people buy. Same burger. The $14.99 version and the $15 version sell at different rates, and the menu with dollar signs pulls a different average check than the one without. Researchers have been picking at this for decades, and the patterns are real. Here's the version that actually matters behind the bar.
 
 ## Charm pricing: the .99 / .95 ending
 
-Charm pricing is ending a price in .99, .95, or .89 instead of round numbers. The classic example: $9.99 instead of $10.
+Charm pricing means ending a price in .99, .95, or .89 instead of a round number. You've seen it your whole life. $9.99 instead of $10.
 
-**The data:** Retail studies (William Poundstone's *Priceless*, MIT pricing research) show charm-priced items can sell at **24% higher volume** than round-priced equivalents in retail settings. The mechanism: customers anchor on the first digit ($9.99 reads as "nine-something" while $10.00 reads as "ten").
+**The data:** Retail studies (William Poundstone's *Priceless*, MIT pricing research) show charm-priced items can sell at **24% higher volume** than round-priced equivalents in retail settings. The reason is dumb and it works: people anchor on the first digit. $9.99 reads as "nine-something." $10.00 reads as "ten."
 
-**Translation to restaurants:** The effect is real but smaller. Restaurant customers process menu prices differently than retail. The lift in restaurants is closer to **5-15%** rather than 24%, but it's positive. Casual and fast casual concepts benefit. Family restaurants benefit. QSR benefits.
+**Translation to restaurants:** The effect is real, just smaller. People read a menu differently than they read a price tag at Target, so the lift in restaurants lands closer to **5-15%** instead of 24%. Still positive. Casual, fast casual, family, QSR, they all pick up something from it.
 
-**When .95 vs .99:** Operationally similar. Some operators use .95 because it reads as "almost an even price" while still keeping the first digit lower ("fourteen ninety-five" sounds rounder than "fourteen ninety-nine"). Marginal difference; pick one and stay consistent across the menu.
+**When .95 vs .99:** Honestly there's barely any daylight between them. Some operators run .95 because it reads as "almost an even price" while still keeping that first digit lower, and "fourteen ninety-five" does sound a hair rounder than "fourteen ninety-nine." Don't lose sleep over it. Pick one and run it across the whole menu.
 
 ## Round pricing: signaling quality
 
-The opposite move: round prices signal quality.
+Now flip it. Round prices tell the customer this place is confident.
 
-A $25 steak reads as confident pricing. A $24.99 steak reads as marketing.
+A $25 steak reads like a steak. A $24.99 steak reads like a commercial.
 
-Fine dining menus almost universally use round prices: $32, $45, $84. The signal: "we are not trying to trick you with cents. We are charging you what the dish is worth."
+Walk into any real fine dining room and the prices are round: $32, $45, $84. What that's saying is, we're not nickel-and-diming you with cents, we're charging what the dish is worth.
 
-**The mechanism:** Round prices are processed faster. Faster processing leads to less price-focused decision-making. The customer reads "thirty-two" and moves on. They read "thirty-one ninety-nine" and pause to evaluate. The pause is what destroys premium positioning.
+**The mechanism:** Round prices get processed faster, and faster processing means the guest spends less of their brain on the money. They read "thirty-two" and move on. Hit them with "thirty-one ninety-nine" and they stop to do the math, and that little pause is exactly what kills the premium feel.
 
 **Concepts where round prices win:**
 - Fine dining
@@ -47,11 +47,11 @@ Fine dining menus almost universally use round prices: $32, $45, $84. The signal
 - Pizza
 - Sports bars
 
-The pattern: customer expectation matters more than absolute pricing psychology. If your concept is positioned as "good value," charm pricing reinforces the message. If positioned as "premium experience," round pricing reinforces.
+The pattern underneath all of it is that what the guest already expects from your concept matters more than any pricing trick. If you're selling "good value," charm pricing backs that up. If you're selling "this is a nice night out," round pricing backs that up. Don't fight your own positioning at the price line.
 
 ## The dollar sign question
 
-Cornell School of Hotel Administration ran a series of studies on menu pricing including whether to display the dollar sign.
+Cornell's School of Hotel Administration ran a bunch of menu pricing studies, and one of them tested something as small as whether you show the dollar sign at all.
 
 **Findings:**
 
@@ -59,9 +59,9 @@ Cornell School of Hotel Administration ran a series of studies on menu pricing i
 - Menus showing "$16" → no measurable difference from above
 - Menus showing "16" (no dollar sign, no decimals) → **8.15% higher average check** than the dollar-sign version
 
-The mechanism: the dollar sign primes price-focused thinking. Removing it lets customers focus on the food description and order more freely.
+Here's what's going on. The dollar sign is a little flag that says "you're spending money," and the second that flag goes up, the guest gets cheaper. Take it away and they read the food instead of the bill, and they order looser.
 
-**Practical application:** Fine dining and many casual full-service menus drop the dollar sign and the decimal: "16" instead of "$16.00." Visually cleaner, measurably higher average check.
+**Practical application:** Fine dining and a lot of casual full-service menus just drop the dollar sign and the decimal. "16" instead of "$16.00." Cleaner to look at, and it pulls a measurably higher average check.
 
 **When NOT to drop the dollar sign:**
 - Concepts where customers need to verify they can afford it (price-sensitive segments)
@@ -70,19 +70,19 @@ The mechanism: the dollar sign primes price-focused thinking. Removing it lets c
 
 ## Anchor pricing
 
-Anchor pricing is placing a high-priced item near other items to make the other items look cheaper by comparison.
+Anchor pricing is parking one expensive item next to the others so everything else looks like a deal by comparison.
 
-**The classic example:** A wine list with one $180 bottle, several $70-90 bottles, and a $35 bottle at the bottom. The $180 makes the $70-90 look reasonable. Most customers buy in the $70-90 tier even though they walked in expecting $40-50.
+**The classic example:** A wine list with one $180 bottle up top, a handful of $70-90 bottles, and a $35 bottle hiding at the bottom. That $180 bottle does all the work. It makes the $70-90 range look totally reasonable, and most people buy right in there even though they walked in thinking $40-50. I've watched this happen at the bar more times than I can count. Nobody's ordering the $180. It's not there to sell. It's there to make the next one down feel safe.
 
-**Restaurant menu application:** Put one premium item ($48 ribeye, $42 lobster) at the top of the entrée section. The mid-priced entrées look reasonable in comparison. Average check lifts.
+**Restaurant menu application:** Drop one premium item ($48 ribeye, $42 lobster) at the top of the entrée section. Suddenly the mid-priced plates look fair, and the average check creeps up.
 
-**The data:** Anchor pricing increases average check by **6.8%** in a 271-restaurant Cornell study. The mechanism is comparison framing.
+**The data:** A 271-restaurant Cornell study found anchor pricing bumped average check by **6.8%**, and it's all comparison framing.
 
-**Important:** The anchor needs to actually sell occasionally. If nobody orders the $48 ribeye, customers stop seeing it as a real option and the anchor effect fades. Aim for 5-15% of customers ordering the anchor.
+**Important:** The catch is the anchor still has to sell once in a while. If literally nobody orders the $48 ribeye, people quietly stop reading it as a real choice and the whole effect dies. Shoot for 5-15% of guests ordering the anchor. That's the sweet spot where it stays believable.
 
 ## Decoy pricing in tiered items
 
-Decoy pricing is creating three options where the middle option is the target.
+Decoy pricing is building three options where the one in the middle is the one you actually want them to buy.
 
 **The classic example (espresso sizing):**
 
@@ -90,7 +90,7 @@ Decoy pricing is creating three options where the middle option is the target.
 - Medium espresso: $4.50
 - Large espresso: $4.75
 
-The small looks tiny for the price. The large costs only $0.25 more than the medium but isn't much bigger. The medium becomes the "smart choice." Volume shifts to the medium, average check lifts.
+The small looks like a rip-off for what you get. The large is only $0.25 over the medium but it's barely a bigger cup, so it makes the medium look like the obvious play. Everybody talks themselves into the medium, and the average check goes up while they feel smart about it.
 
 **Restaurant menu application:**
 
@@ -98,13 +98,13 @@ The small looks tiny for the price. The large costs only $0.25 more than the med
 - Premium burger: $16
 - Deluxe burger: $16.50
 
-The premium burger becomes the "smart choice" because the deluxe is barely more expensive but doesn't look proportionally better.
+The premium burger turns into the "smart choice" because the deluxe is barely more money and doesn't look like it earns the extra fifty cents.
 
-**The data:** Decoy effect lifts average check by 3-7% in research settings. Less proven in restaurant operations but logically sound.
+**The data:** The decoy effect moves average check 3-7% in research settings. I'll be straight with you, it's less nailed down in real restaurant numbers than the dollar-sign stuff, but the logic holds and it costs you nothing to try.
 
 ## When to drop the dollar sign and decimals entirely
 
-The fine dining convention. The full move:
+This is the full fine-dining move, all the way down:
 
 - Drop the dollar sign
 - Drop the decimals
@@ -117,9 +117,9 @@ Example menu line:
 
 **Premium format:** Grilled Salmon, lemon caper sauce, 32
 
-The visual reads as confident pricing. Customers process the description first and the price second. Order behavior shifts toward higher-margin items.
+It just reads confident. The guest reads the dish first and the price second, and ordering drifts toward your higher-margin stuff.
 
-This convention only works if your prices are at the level where the format reinforces the positioning. A $14 entrée in this format reads as "trying too hard." A $32 entrée reads as confident.
+Here's the part people skip. This only works if your prices are actually high enough to carry it. Put a $14 entrée in this format and it reads as trying too hard, like a diner cosplaying as a steakhouse. A $32 entrée in the same format reads exactly right.
 
 ## The cents-vs-dollar-sign rule by concept
 
@@ -135,31 +135,31 @@ A practical guide:
 
 **Fine dining:** Round prices, drop dollar sign and decimals. Average check $75-200+.
 
-The right format for your menu is set by where your concept sits in this hierarchy, not by general psychology research.
+The right format for your menu comes from where your concept sits on this list, not from some study about shoppers at a grocery store.
 
 ## The promotion-pricing exception
 
-Specials and promotions are an exception to the charm/round rules.
+Specials and promos break the charm-versus-round rules, and that's fine.
 
 For specials:
 - Use round prices ("Tonight's special: 28") because the customer is being told the price verbally
 - Or use ending in .00 for clarity
 - Avoid .99 endings on specials because they read as bait pricing
 
-Promotional pricing (limited-time offers) follows the same logic: clean prices for promotions because the value proposition is the discount, not the price ending.
+Limited-time offers run on the same idea. Keep the price clean, because the thing selling it is the discount, not some clever ninety-nine on the end.
 
 ## What this looks like in the calculator
 
-The [menu pricing calculator](/calculators/menu-pricing/) on this site includes a charm-rounding option. Set your target food cost or CM target, set the rounding convention for your concept (.99, .95, or round), and the calculator returns the menu price in the right format.
+The [menu pricing calculator](/calculators/menu-pricing/) on this site has a charm-rounding option baked in. Plug in your target food cost or CM target, pick the rounding convention for your concept (.99, .95, or round), and it spits back the menu price already in the right format. You don't have to eyeball it.
 
-For broader menu structure decisions, see [Cost-Plus vs Margin Pricing](/blog/cost-plus-vs-margin-pricing-menu/).
+If you're trying to sort out the bigger menu structure questions first, read [Cost-Plus vs Margin Pricing](/blog/cost-plus-vs-margin-pricing-menu/).
 
 ## What to do today
 
-Look at your current menu. Note which prices end in .99, which end in .95, which are round. If the pattern is mixed without a clear logic, that is fixable.
+Pull up your menu right now. Run down it and mark which prices end in .99, which end in .95, and which are round. If it's a random mess with no logic to it, good news, that's an easy fix.
 
-For most concepts, the answer is: consistent .99 (or .95) endings across the menu, with one or two anchor items at higher prices in round format. The format consistency itself signals brand discipline.
+For most concepts the move is simple. Pick .99 or .95 and run it clean across the whole menu, then sit one or two anchor items at higher prices in round format. That consistency does quiet work for you. It reads as a place that knows what it's doing.
 
-If you have a fine-dining concept with prices like "$24.99," you are leaving real money on the table. Convert to round, drop the dollar sign, and watch average check move within 30 days.
+And if you're running a fine-dining concept with prices sitting at "$24.99," I'll just say it, you're leaving money on the table every single night. Convert to round, kill the dollar sign, and watch your average check move inside 30 days.
 
 Sources: [William Poundstone *Priceless*](https://www.priceless-book.com/), Cornell School of Hotel Administration menu studies, MIT Sloan pricing research, [Toast](https://pos.toasttab.com/), [TouchBistro](https://www.touchbistro.com/).

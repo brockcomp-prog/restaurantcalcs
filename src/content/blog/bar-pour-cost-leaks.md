@@ -14,7 +14,7 @@ He wasn't mean about it. He just held up the jigger like it was a remedial readi
 
 That moment is also the entire reason I have opinions about pour cost.
 
-I started behind the bar at Cosmos Taverna in California and worked my way up to general manager over five years. In that time the bar program ran the full range, busy, slow, profitable, leaking, and twice a quarter, mysteriously profitable for reasons that always turned out to be a vendor short-shipping us. The pour cost number was my early warning system, and learning to read it correctly took longer than I'd like to admit.
+I started behind the bar at Cosmos Taverna in California and worked my way up to general manager over five years. The bar program ran the full range in that time. Busy, slow, profitable, leaking, and twice a quarter, mysteriously profitable for reasons that always turned out to be a vendor short-shipping us. The pour cost number was my early warning system. Learning to read it correctly took longer than I'd like to admit.
 
 Here's the thing nobody tells you when you start running a bar program: **the pour cost percentage tells you something is wrong. It does not tell you what.**
 
@@ -22,39 +22,39 @@ Operators see a 28% pour cost on liquor (when the healthy range is 18–24%) and
 
 ## 1. Free pours on the well
 
-This is the single biggest leak in most indie bars. New bartenders don't trust jiggers. They eyeball it because that's what they saw on TV, on YouTube, in cocktail competitions. (We know this because every one of us was that new bartender once. See: opening anecdote.) Two ounces becomes two-and-a-half before anyone notices. Multiply by three hundred drinks on a busy Saturday and you've quietly given away more product than a comp tab would have flagged.
+This is the single biggest leak in most indie bars. New bartenders don't trust jiggers, so they eyeball it because that's what they saw on TV, on YouTube, in cocktail competitions. Every one of us was that bartender once. Two ounces becomes two-and-a-half before anyone notices, and multiply that by three hundred drinks on a busy Saturday and you've given away more product than a comp tab would ever have flagged.
 
 Industry-standard cocktail pour is **1.5 oz** ([Toast](https://pos.toasttab.com/blog/on-the-line/how-to-calculate-pour-cost), USBG curriculum). A consistent 0.25 oz over-pour on a 1.5 oz spec is a 17% give-away on every drink. Nobody is stealing. Nobody is malicious. The pour cost just bleeds.
 
-**The fix:** measured pour spouts on every well bottle. Not jiggers, bartenders hate those during a rush, and a senior bartender holding a jigger up at the end of a shift is doing remedial training, not service. Pour spouts deliver a consistent measure with no decision required. Train every new hire on the spec, do a one-shift audit at the 30-day mark, and re-train if needed. The cost of pour spouts is roughly $4 a bottle. The cost of a 4-point drift in pour cost is hundreds per shift.
+**The fix:** measured pour spouts on every well bottle. Not jiggers. Bartenders hate those during a rush, and a senior bartender holding a jigger up at the end of a shift is doing remedial training, not service. Pour spouts give you a consistent measure with no decision required. Train every new hire on the spec, do a one-shift audit at the 30-day mark, and re-train if it's off. Pour spouts run about $4 a bottle. A 4-point drift in pour cost runs hundreds per shift. That math isn't close.
 
 ## 2. Buyback culture
 
 This one I learned the hard way. Regulars walk in. The bartender greets them by name, pours their first drink, and *"this one's on me, I got you."* Round two is on the house *"because you brought your friends."* By the end of the night, the bartender has comped four drinks across three regulars and rung up zero of them.
 
-On a slow Tuesday this is fine. It builds loyalty. Regulars come back. They tip well.
+On a slow Tuesday this is fine. It builds loyalty, regulars come back, and they tip well. I'd do it every slow Tuesday again.
 
 On a busy Saturday it's a real cost. Multiply by every bartender, every shift, and you've got a five-figure annual leak that doesn't appear in any report because nobody rang the comps. Same hand. Different night. Same untracked drink.
 
-**The fix:** a comp policy with a daily dollar cap per bartender, rung in the POS as a comp every time. The point isn't to kill buybacks, they're part of running a hospitable bar. The point is to *count* them. When buyback budget shows up as a cost line, you can manage it. When it doesn't, it manages you. (Nobody likes that line. Run it anyway.)
+**The fix:** a comp policy with a daily dollar cap per bartender, rung in the POS as a comp every time. The point isn't to kill buybacks. They're part of running a hospitable bar. The point is to *count* them. When buyback budget shows up as a cost line, you can manage it, and when it doesn't, it manages you. Nobody on staff likes that policy. Run it anyway.
 
 ## 3. Comps not rung in
 
 Different from buybacks. This is the rest of the comp universe, staff family meals, manager comps, walk-in repairs the AC tech got fed, the priest who blesses the place every Christmas, the regulars on their birthday. All real, all human, all part of running a place people love.
 
-But each one is product going out the door without a sales line attached. If your POS doesn't have a comp line that captures it, your pour cost % is being calculated on cost-spent ÷ revenue-rung. The cost is real. The revenue isn't there. The percentage looks like a leak.
+But each one is product going out the door without a sales line attached. If your POS doesn't have a comp line that captures it, your pour cost % gets calculated on cost-spent ÷ revenue-rung. The cost is real. The revenue isn't there. So the percentage looks like a leak when nothing leaked.
 
-**The fix:** a comp button in the POS for every category, staff meal, manager comp, vendor, regular. Push the button every time. The comp isn't the problem. The undocumented comp is the problem. (It always was.)
+**The fix:** a comp button in the POS for every category, staff meal, manager comp, vendor, regular. Push the button every time. The comp was never the problem. The undocumented comp is.
 
 ## 4. Vendor short-ships and receiving errors
 
-This one is sneaky. The truck pulls up Tuesday morning. The receiving person on duty signs for what's on the manifest without verifying every case. A case of premium tequila is short by two bottles. The vendor short-shipped it but you signed for the full count. You paid for what you didn't get. That product never enters your inventory but it shows up on the invoice as cost.
+This one is sneaky. The truck pulls up Tuesday morning, and whoever's on receiving signs for what's on the manifest without cracking every case. A case of premium tequila is short by two bottles. The vendor short-shipped it, you signed for the full count, and now you've paid for product that never enters your inventory but still shows up on the invoice as cost.
 
-Same problem in reverse: you receive a case but the bottles are damaged or the wrong product. You don't catch it. You eat the cost.
+Same problem in reverse: you receive a case but the bottles are damaged or the wrong product, you don't catch it, and you eat the cost.
 
 In five years at Cosmos I caught vendor short-ships often enough that I built a habit of opening every spirits case at the door. Twice a month it caught a discrepancy. Most vendors fix it without an argument once you ask, they know the game. (I once had a driver wait twenty minutes while I counted three cases. He was unhappy. We were both still less unhappy than the alternative, which would have been me discovering the short two weeks later, when the credit window had closed.)
 
-**The fix:** receiving discipline. Every spirits case opened, every count matched against the invoice, signed only after verification. If the vendor's driver doesn't have time to wait, you can refuse the delivery. Every distributor I've worked with has policies that support the receiving process, they just don't volunteer those policies if you don't push.
+**The fix:** receiving discipline. Every spirits case opened, every count matched against the invoice, signed only after verification. If the driver doesn't have time to wait, refuse the delivery. Every distributor I've worked with has a policy on the books that backs your receiving process. They just won't volunteer it unless you push.
 
 ## 5. Recipe drift
 
@@ -62,13 +62,13 @@ This is the slowest leak and the hardest to spot. Your menu prints a 1.5 oz pour
 
 The recipe spec on the menu and the actual bottle-to-glass output have separated. Per-drink cost is now off by 17%. Multiply by every drink with the same drift and you've got a 2-3 point pour cost gap that no inventory count will explain, because the inventory count is right. The bottles are flowing. They're just flowing into bigger drinks than the menu says.
 
-**The fix:** seasonal spec audits. Pull the menu, pour every drink to spec, weigh or measure the output, compare to the recipe. Re-train where needed. Don't shame anyone, recipe drift is a training-and-time problem, not a discipline problem. But fix it, because every menu item with drift is bleeding margin silently.
+**The fix:** seasonal spec audits. Pull the menu, pour every drink to spec, weigh or measure the output, compare to the recipe. Re-train where it's off. Don't shame anyone. Recipe drift is a training-and-time problem, not a discipline problem. But fix it, because every menu item with drift bleeds margin quietly and you won't feel it until the year-end number is ugly.
 
 ## Why theft is almost never the first answer
 
 Notice that none of the five leaks above are theft. In five years of running variance reports at a busy bar and nightclub, I caught one bartender stealing, and I caught them by accident, not because variance flagged it. Variance flagged the *other four leaks* every time, and I had to walk through the operational stuff in order before getting to the theft suspicion.
 
-Treating every variance spike as theft poisons team trust faster than the variance itself ever costs you. Bartenders know when they're being assumed guilty. Word travels fast. The good ones leave for the bar across the street that doesn't suspect them. Now you're paying $300 to recruit and train a replacement on top of the variance you couldn't explain. Plus you're down a senior bartender. Which means the new hires are pouring 1.7 oz again. (We are running in circles. This is the cycle.)
+Treating every variance spike as theft poisons team trust faster than the variance itself ever costs you. Bartenders know when they're being assumed guilty, and word travels fast. The good ones leave for the bar across the street that doesn't suspect them. Now you're paying $300 to recruit and train a replacement on top of the variance you couldn't explain, you're down a senior bartender, and the new hires are pouring 1.7 oz again. Right back where we started.
 
 The investigation order I'd recommend:
 
@@ -96,13 +96,13 @@ The pour cost percentage you compute over a week or month, total beverage cost d
 
 But the aggregate number alone doesn't tell you which drinks are leaking. For that you need per-drink cost, bottle cost ÷ usable ounces × pour size, with a spillage factor. This site's [liquor pour cost calculator](/calculators/liquor-pour-cost/) does both: aggregate mode for the period total, per-drink mode for spec-by-spec analysis.
 
-The discipline I'd push: run aggregate weekly. Run per-drink any time aggregate drifts more than a point. Both numbers tell different parts of the story, and an operator who reads both is two steps ahead of one who reads either alone.
+The discipline I'd push: run aggregate weekly. Run per-drink any time aggregate drifts more than a point. The two numbers tell different parts of the story, and if you only read one of them you're guessing at the other half. I'd rather not guess with margin.
 
 ## What I'd tell my younger bartender self
 
 Five years on the bar taught me one thing about pour cost that I wish someone had told me on day one: **the number is a flag, not a verdict.** It tells you to look. It doesn't tell you where.
 
-Run the math weekly. When the number spikes, walk through the operational checklist before assuming the worst about your team. Most leaks are training, process, or receiving, not malice. Fix those first, and the variance closes most of the time.
+Run the math weekly. When the number spikes, walk the operational checklist before you assume the worst about your team. Most leaks are training, process, or receiving, not malice. Fix those first and the variance closes most of the time.
 
 When it doesn't, you'll know.
 

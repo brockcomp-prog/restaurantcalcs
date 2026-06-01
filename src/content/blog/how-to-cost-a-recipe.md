@@ -12,7 +12,7 @@ The first time a sous chef handed me a recipe cost sheet for a new burger, the m
 
 Three weeks later the food cost report came back and the burger was running 31%. Same recipe, same vendor, same portion. Nothing had changed except the actual cost was now nine points higher than the spec sheet said.
 
-The math was not wrong. The spec sheet was just incomplete. It costed the ingredients at as-purchased prices and ignored every step between the box on the receiving dock and the plate on the table. That gap is called yield percentage, and almost every independent kitchen costs without it.
+The math was not wrong. The spec sheet was just incomplete. It costed the ingredients at as-purchased prices and ignored every step between the box on the receiving dock and the plate on the table. That gap is yield percentage, and almost every independent kitchen costs without it.
 
 This is the version of recipe costing I wish somebody had walked me through when I started writing P&Ls.
 
@@ -24,7 +24,7 @@ People say "recipe cost" and mean three different things.
 - **Plate cost** is the per-serving cost of that batch divided by portions, plus the cost of anything that goes on the plate but is not in the batch (the garnish, the bread, the herbs, the side).
 - **Portion cost** is the most-narrow version: the cost of one portion of one item. Useful when you sell a thing by itself (a single oyster, an add-on shrimp skewer) but not the full picture of what hits the table.
 
-Most operators use these interchangeably and end up with numbers that look right but predict the wrong food cost. The vocabulary matters because each term ignores different costs. Mixing them up is how a 22% food cost on paper becomes 31% on the report.
+Most operators use these interchangeably and end up with numbers that look right but predict the wrong food cost. Each term ignores a different cost. Mix them up and that's how a 22% food cost on paper becomes 31% on the report.
 
 ## Why your costs are 15-20% understated without yield percentage
 
@@ -36,9 +36,9 @@ The formula:
 
 A whole beef tenderloin, untrimmed, runs about $24 a pound at wholesale. Trim off the silver skin, the chain, the head, and the tail and you get roughly 70% yield (Culinary Institute of America). That $24 AP price is really $34.29 per usable pound. Cost a 6 oz steak at AP price and you book $9.00 in food cost. Cost the same steak at the honest EP price and you book $12.86. That is the 30% gap that shows up in your real food cost report.
 
-Same story with produce. A case of romaine yields about 75% after trimming the cores and the outer leaves (US Foods produce yield tables). Mushrooms run 80-85%. Bell peppers 75% after stem and seed. Onions 90%. The "five pound bag of yellow onions" you bought is really 4.5 pounds usable, and the spec sheet that costs onions at the wholesale price is understating by about 11%.
+Same story with produce. A case of romaine yields about 75% after trimming the cores and the outer leaves (US Foods produce yield tables), mushrooms run 80-85%, bell peppers 75% after you pull the stem and seeds, onions 90%. So the "five pound bag of yellow onions" you bought is really 4.5 pounds usable, and the spec sheet that costs onions at the wholesale price is understating by about 11%.
 
-Aggregate across a menu and the typical untrimmed-cost spec sheet runs **15-20% under the real food cost** (CIA, Restaurant365). That is not an error band. That is the gap most independent kitchens never close.
+Aggregate across a menu and the typical untrimmed-cost spec sheet runs **15-20% under the real food cost** (CIA, Restaurant365). That is not an error band you round off. It's the gap most independent kitchens never close.
 
 ## The math, end to end
 
@@ -90,7 +90,7 @@ At a $14 menu price, that is a food cost of **29.5%**. Almost ten points off the
 
 ## When to recost (and what should actually trigger it)
 
-The textbook answer is quarterly. That is fine if your costs are stable. They are not. Most kitchens recost when something obviously breaks, by which point the damage is in the P&L.
+The textbook answer is quarterly. That's fine if your costs are stable, and they aren't. Most kitchens recost when something obviously breaks, by which point the damage is already in the P&L.
 
 Recost a recipe when:
 
@@ -104,7 +104,7 @@ Recost a recipe when:
 
 The [recipe cost calculator](/calculators/recipe-cost/) on this site asks for ingredient AP cost, yield %, and portions, then applies the Q-factor at the end. The format follows the CIA standard recipe-card layout but on a phone, between rushes. It is the same math your accountant runs on a quarterly recosting cycle, with the yield step pre-built in so you don't skip it.
 
-For the burger above, you'd plug in seven ingredients with their AP costs and yield percentages, set portions to 1, and the calculator returns $4.13. Then you'd run it against the menu price field to see the food cost percentage. Then you'd run it again three weeks later when the protein vendor lifts beef by 6% and the number tells you whether to reprice, change the portion, or change the vendor.
+For the burger above, you'd plug in seven ingredients with their AP costs and yield percentages, set portions to 1, and the calculator returns $4.13. Run it against the menu price field and you see the food cost percentage. Then run it again three weeks later, when the protein vendor lifts beef by 6%, and the number tells you whether to reprice, change the portion, or change the vendor.
 
 ## The cross-checks that catch a bad recipe cost
 
@@ -120,7 +120,7 @@ A recipe cost number alone is just a number. Three quick cross-checks tell you i
 
 The mistake is not skipping yield. It is doing yield once, at recipe creation, and never touching it again.
 
-Yield is not a constant. Beef yields shift with breed, age, and trim style. Produce yields shift with season and freight. Cook loss shifts with cooking method and equipment. A burger that yielded 78% on a flat-top last summer might yield 73% on a charbroiler this winter. That five-point shift is six cents per patty, which sounds like nothing until you multiply by 800 burgers a week, multiply by 50 weeks, and find $2,400 a year hiding in cook loss alone.
+Yield is not a constant. Beef yields shift with breed, age, and trim style. Produce shifts with season and freight, and cook loss shifts with the method and the equipment. A burger that yielded 78% on a flat-top last summer might yield 73% on a charbroiler this winter. That five-point shift is six cents per patty, which sounds like nothing until you multiply by 800 burgers a week, multiply by 50 weeks, and find $2,400 a year hiding in cook loss alone.
 
 The fix is not to recost weekly. It is to track the *actuals* and recost when actuals drift more than 5% from the spec. Inventory variance is the early-warning system. Recipe recosting is the response.
 
@@ -154,6 +154,6 @@ The fix is not to recost weekly. It is to track the *actuals* and recost when ac
 
 Pull three of your highest-volume menu items. Re-cost them with yield percentage applied to every ingredient that gets trimmed, peeled, or cooked. Add a Q-factor. Compare to the spec sheet your kitchen has been using.
 
-If the new number is within two points of the old number, your kitchen is among the few that costs honestly. If the new number is five or more points higher, that gap is your hidden food cost. Reprice, re-portion, or change the recipe. Your variance report will tell you within a month whether you closed the gap.
+If the new number is within two points of the old number, your kitchen is among the few that costs honestly. If it's five or more points higher, that gap is your hidden food cost, and it's been there the whole time. Reprice, re-portion, or change the recipe. Your variance report will tell you within a month whether you closed it.
 
 Sources: [Culinary Institute of America](https://www.ciachef.edu/), USDA Food Buying Guide, [US Foods produce yield tables](https://www.usfoods.com/), [Restaurant365](https://www.restaurant365.com/), [Toast](https://pos.toasttab.com/), [meez yield database](https://www.getmeez.com/).

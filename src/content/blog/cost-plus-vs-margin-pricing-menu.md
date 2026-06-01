@@ -8,7 +8,7 @@ relatedCalc: "menu-pricing"
 heroImage: "/illustrations/menu-pricing.webp"
 ---
 
-There are three main menu pricing methods. Each produces a different price for the same dish. Each has a concept where it works best and another where it leaves money on the table. Understanding all three lets you pick the right tool for each item instead of running one formula across the whole menu.
+Three menu pricing methods cover most of what you'll ever need. Run the same dish through all three and you get three different prices, sometimes wildly different. Each one shines on a certain kind of item and bleeds you on another. The mistake I see most often is an operator picking one formula and running it across the whole menu, top to bottom. That's how you under-price the steak and over-price the espresso in the same shift.
 
 ## The three methods
 
@@ -30,7 +30,7 @@ A $4.50 dish at 30% target = $15.00 menu price.
 
 A $4.50 dish + $13.50 target CM = $18.00 menu price.
 
-Same input. Different outputs. The right method depends on what you are optimizing for.
+Same input, three different outputs. Which one's right depends on what you're actually trying to win on that item.
 
 ## A worked example
 
@@ -42,7 +42,7 @@ Same dish, three methods.
 | Food-cost target (30%) | $4.50 ÷ 0.30 | **$15.00** | 30.0% | $10.50 |
 | CM-target ($13.50) | $4.50 + $13.50 | **$18.00** | 25.0% | $13.50 |
 
-The price difference between the lowest and highest method is **$4.50**, or **33%**. On a typical 1,000-cover-per-week operation, that is **$4,500 of revenue per week** between the methods. The choice is not academic.
+The spread between the lowest and highest method is **$4.50**, or **33%**. On a typical 1,000-cover-per-week operation, that's **$4,500 of revenue per week** riding on which formula you happened to grab. That's a rent payment. This isn't a math-class exercise.
 
 ## Which method wins by concept
 
@@ -52,7 +52,7 @@ The price difference between the lowest and highest method is **$4.50**, or **33
 
 **Casual full-service:** Mix of methods. Food-cost target on entrees (30-33%). CM-target on premium items (steak, seafood) because the higher absolute dollar contribution justifies the higher pricing.
 
-**Fine dining:** CM-target dominant. The customer is paying for experience, not food cost ratio. A $9 food cost dish might be priced at $34 because the contribution margin justifies the placement. Food cost percentage matters less because the average check absorbs it.
+**Fine dining:** CM-target dominant. Nobody at a tasting menu is doing food-cost math in their head. They're paying for the room, the service, the night out. A $9 food cost dish might land at $34 because the contribution margin earns its spot on the plate, and the food cost percentage barely registers because the average check swallows it.
 
 **Pizza:** Cost-plus, often 4-6x multiplier. Cheese and dough are cheap; the price has to support labor and rent. A pizza with $2.50 of food cost commonly retails $14-18.
 
@@ -60,7 +60,7 @@ The price difference between the lowest and highest method is **$4.50**, or **33
 
 **Steakhouse:** CM-target with food-cost-target floor check. A $24 ribeye + $12 sides target CM at $40 = $76 menu price. Check that food cost % isn't above 40% (steakhouse band ceiling). If it is, the CM target was too aggressive.
 
-**Bar program:** Cost-plus dominant (4-5x on spirits, 3-4x on beer). Specific to category: see [How to Calculate Pour Cost](/blog/how-to-calculate-pour-cost/) for category-specific pricing logic.
+**Bar program:** Cost-plus dominant (4-5x on spirits, 3-4x on beer). This is the one I ran for years behind the stick, and the multiplier swings hard by category, so don't price a draft list and a spirits list off the same number. See [How to Calculate Pour Cost](/blog/how-to-calculate-pour-cost/) for the category-by-category logic.
 
 ## The trade-offs
 
@@ -96,17 +96,17 @@ The price difference between the lowest and highest method is **$4.50**, or **33
 
 ## The hybrid approach (what well-run kitchens do)
 
-Most well-run operations use a hybrid:
+Almost nobody good runs a single formula. The kitchens that actually hold their margins use a hybrid:
 
 1. **Floor check:** Food cost percentage stays within segment band (29-32% for casual, 35-40% for steakhouse, etc.).
 2. **Ceiling check:** Menu price stays within customer expectation for the segment.
 3. **CM optimization:** Within those two constraints, optimize for CM in dollars.
 
-The result: high-margin items (premium proteins, signature dishes) get priced at the CM target. Volume items (burgers, pastas) get priced at food-cost target. Bar items get cost-plus by category.
+So your high-margin items, the premium proteins and the signature dishes, get priced at the CM target. Your volume items like burgers and pastas get priced at food-cost target. Bar items get cost-plus by category. Three different formulas on one menu, and that's the whole point.
 
 ## Charm rounding and the .95 / .99 ending
 
-Once you have a target price, you round to a price point. The two common rounding conventions:
+Your formula spits out something ugly like $13.50, and now you round it to a price a guest actually reads. Two conventions do most of the work:
 
 **.99 / .95 endings:** Charm pricing, signals value. $14.99 instead of $15. Retail research shows 24% volume lift over round prices in retail (Priceless, Poundstone).
 
@@ -130,14 +130,14 @@ The rounding direction matters. Casual rounds down (.99 ending) to feel like val
 
 ## What this looks like in the calculator
 
-The [menu pricing calculator](/calculators/menu-pricing/) on this site runs all three methods side-by-side with charm rounding options. Plug in food cost, choose target method, and see all three prices with the corresponding food cost % and CM dollars. The recommended use: run all three, pick the one that hits your concept's intended positioning.
+The [menu pricing calculator](/calculators/menu-pricing/) on this site runs all three methods side-by-side with charm rounding built in. Plug in the food cost, pick your target method, and you'll see all three prices with the food cost % and CM dollars next to each. Run all three every time. Then pick the one that lands where your concept is supposed to sit.
 
 For sales mix analysis after pricing, run [menu engineering calculator](/calculators/menu-engineering/).
 
 ## What to do today
 
-Pick three menu items: one low-cost (espresso, side, salad), one mid-cost (burger, sandwich, pasta), one high-cost (steak, seafood, pizza special). Run all three pricing methods on each. Compare what each method recommends to your current price.
+Pick three items off your menu. One low-cost (espresso, side, salad), one mid-cost (burger, sandwich, pasta), one high-cost (steak, seafood, pizza special). Run all three pricing methods on each and put the numbers next to what you charge right now.
 
-The pattern that usually shows up: low-cost items are under-priced (cost-plus method recommends higher), high-cost items are also under-priced (CM-target method recommends higher), mid-cost items are roughly right. The fix is targeted repricing of the low and high ends while leaving the middle alone.
+Here's what almost always falls out. Your low-cost items are under-priced, because cost-plus says they should be higher. Your high-cost items are under-priced too, because CM-target says the same. The middle is usually close enough to leave alone. So don't do a full menu reprice and scare your regulars. Fix the two ends, leave the middle, and you'll catch most of the money without anyone noticing the menu changed.
 
 Sources: [Toast](https://pos.toasttab.com/), [TouchBistro](https://www.touchbistro.com/), [Webstaurant](https://www.webstaurantstore.com/), Cornell School of Hotel Administration menu pricing research, [meez](https://www.getmeez.com/).

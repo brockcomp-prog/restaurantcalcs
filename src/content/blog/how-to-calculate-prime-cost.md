@@ -8,9 +8,9 @@ relatedCalc: "prime-cost"
 heroImage: "/illustrations/prime-cost.webp"
 ---
 
-Prime cost is the single number every restaurant operator should be tracking weekly. Most aren't. Most pull it monthly from the bookkeeper, see "62%" on the report, shrug, and move on. By the time the monthly number lands, the week that broke prime cost is already four weeks gone and the second bad week is already two weeks in.
+Prime cost is the one number every operator should be watching weekly. Most aren't. They pull it monthly from the bookkeeper, see "62%" on the report, shrug, and move on. By the time that monthly number lands, the week that broke prime cost is four weeks gone and the second bad week is already two weeks in.
 
-This is the version of prime cost I wish somebody had walked me through the first time I tried to read a P&L.
+This is the version I wish somebody had walked me through the first time I sat down with a P&L and pretended I understood it.
 
 ## The formula
 
@@ -18,9 +18,9 @@ Prime cost is the sum of two things: cost of goods sold (food + beverage) and to
 
 > **Prime cost % = (COGS + Total Labor) ÷ Total Sales × 100**
 
-That is the headline math. The trick is what goes inside each bucket.
+That's the headline math. The trick is what goes inside each bucket.
 
-**COGS** for prime cost includes both food and beverage. Food cost percentage on its own is useful but only tells half the bar program's story. A restaurant with great food cost (28%) and bad pour cost (28% on beer) still has hot prime cost because the bev side is leaking.
+**COGS** for prime cost includes both food and beverage. Food cost percentage on its own is useful, but it only tells half the story. A restaurant with great food cost (28%) and bad pour cost (28% on beer) still runs hot on prime cost. The bev side is leaking and nobody's looking at it.
 
 **Total labor** for prime cost is the *fully loaded* number. Not just the gross wages on the payroll report. The fully loaded number adds:
 
@@ -32,13 +32,13 @@ That is the headline math. The trick is what goes inside each bucket.
 - Paid time off accrual
 - Manager salaries amortized to the week
 
-The fully loaded labor cost is typically **25-35% higher than gross wages alone** (Restaurant365, Toast). If your weekly gross wage bill is $12,000, your fully loaded labor for prime cost purposes is closer to $15,500-$16,200. Operators who run prime cost on gross wages alone are understating by 4-6 points and wondering why their net margin doesn't match the report.
+The fully loaded labor cost runs **25-35% higher than gross wages alone** (Restaurant365, Toast). If your weekly gross wage bill is $12,000, your fully loaded labor for prime cost purposes is closer to $15,500-$16,200. Run prime cost on gross wages alone and you're understating by 4-6 points, then staring at the P&L wondering why your net margin doesn't match the number you've been telling yourself.
 
 ## Why weekly, not monthly
 
-The textbook answer says monthly. Industry standard says weekly. The textbook is wrong.
+The textbook says monthly. Good operators run it weekly. The textbook is wrong, and I'll die on that hill.
 
-A monthly prime cost number tells you what already happened to four weeks of business. Weekly prime cost tells you what is happening *right now* and lets you adjust before the second bad week lands. A weekly hit of 65% prime cost on a target of 60% costs you about 1% of weekly revenue. Catch it in week one and fix in week two: 1% loss. Don't catch it until the monthly closes: 4% loss across the period.
+A monthly prime cost number tells you what already happened to four weeks of business. By then it's a postmortem. Weekly prime cost tells you what is happening *right now*, while you can still adjust before the second bad week lands. Say you take a weekly hit of 65% prime cost on a 60% target. That's about 1% of weekly revenue. Catch it in week one and fix in week two and you eat a 1% loss. Wait for the monthly to close and you eat 4% across the period, for the same mistake you could've caught on a Monday.
 
 The weekly cadence requires:
 
@@ -46,7 +46,7 @@ The weekly cadence requires:
 2. Sales pulled from POS for the same period.
 3. Labor pulled from your time clock with payroll burden applied.
 
-Most independent operators have all three. They just don't pull them on a schedule. The fix is a forty-minute Monday morning routine, not a software purchase.
+Most independent operators already have all three sitting right there. They just don't pull them on a schedule. The fix is a forty-minute Monday morning routine. You don't need to buy software for this.
 
 ## A worked example
 
@@ -75,11 +75,11 @@ Take a casual full-service restaurant doing **$82,000** in weekly sales.
 
 **Prime cost:** $29,400 + $15,404 = $44,804 = **54.6%**
 
-That is healthy for a casual full-service. Industry target band: 55-65% (Restaurant365, Toast). At 54.6%, this operation has room to invest in better ingredients, a small price hold, or higher wages without putting the model at risk.
+That's healthy for a casual full-service. Industry target band is 55-65% (Restaurant365, Toast). At 54.6%, this operation has room to spend on better ingredients, hold prices steady for a season, or pay people more without putting the model at risk. That's the spot you want to be in.
 
 ## Where the 60% benchmark comes from (and when to ignore it)
 
-The "prime cost should be 60% or less" rule of thumb comes from Restaurant365's industry survey work and from Bo Bennett's prime cost benchmark series at Baker Tilly. The number is useful as a starting reference. It is wrong as a universal target.
+The "prime cost should be 60% or less" rule of thumb comes from Restaurant365's industry survey work and Bo Bennett's prime cost benchmark series at Baker Tilly. It's a fine starting reference. As a universal target, it's wrong, and treating it like gospel is how a pizza shop talks itself into thinking it's doing fine at 60%.
 
 Better targets by concept:
 
@@ -91,28 +91,28 @@ Better targets by concept:
 - **Coffee shop / bakery:** 55-62%
 - **Sports bar / pub:** 55-62%
 
-The right target for *your* concept is whatever lets you hit your net profit goal after rent, utilities, marketing, and royalty/franchise fees. For most independents that target is set by what's left after the fixed costs. If your rent + utilities + insurance + marketing run $24,000/month on $325,000 monthly revenue (7.4%), you need to keep prime cost below about 67% to leave 5-6% net margin. If those fixed costs run $14,000/month, you have more room.
+The right target for *your* concept is whatever lets you hit your net profit goal after rent, utilities, marketing, and royalty/franchise fees. For most independents the target gets set by whatever's left after the fixed costs. If your rent + utilities + insurance + marketing run $24,000/month on $325,000 monthly revenue (7.4%), you need to keep prime cost below about 67% to leave 5-6% net margin. Fixed costs of $14,000/month instead? You've got more room. Same business, different lease, different target.
 
 ## Three numbers to fix first when prime cost runs over 65%
 
-Prime cost over 65% is not one problem. It is one of three problems (sometimes all three at once).
+Prime cost over 65% usually comes from one of three places, and on a bad week it's all three at once. Here's where to look.
 
-**1. Food cost is too high.** Run an inventory variance check. If theoretical food cost says 30% and actual says 35%, the 5-point gap is either waste, theft, portion drift, recipe non-compliance, or pricing not catching up to ingredient cost. Each has a different fix.
+**1. Food cost is too high.** Run an inventory variance check. If theoretical food cost says 30% and actual says 35%, that 5-point gap is waste, theft, portion drift, recipe non-compliance, or pricing that never caught up to ingredient cost. Each one has its own fix, and they don't fix the same way, so figure out which one you've got before you start swinging.
 
-**2. Labor cost is too high.** SPLH and labor cost % tell different stories. A 38% labor cost on $7K Saturday means $2,660 in labor against 14 server hours plus 6 BOH hours plus a manager. If your SPLH target is $125, you should have been at 56 labor hours max. If you ran 80, you over-scheduled. The fix is forecasting and staggered shift starts, not firing people.
+**2. Labor cost is too high.** SPLH and labor cost % tell you different things, and you need both. A 38% labor cost on a $7K Saturday means $2,660 in labor against 14 server hours plus 6 BOH hours plus a manager. If your SPLH target is $125, you should have capped out around 56 labor hours. Ran 80? You over-scheduled. The fix is forecasting and staggered shift starts. It is not firing people, which is where panicked owners go first and it almost never solves it.
 
-**3. Beverage program is leaking.** Pour cost above the bar-program target (18-24% blended) usually means free pours, comps without manager approval, over-pouring on well drinks, or wine BTG yield problems. The bar leak is the most-often-missed contributor to bad prime cost.
+**3. Beverage program is leaking.** Pour cost above the bar-program target (18-24% blended) usually traces back to free pours, comps without manager approval, heavy hands on well drinks, or wine BTG yield problems. The bar leak is the one people miss most. I ran bars for five years and I'll tell you, a generous bartender who thinks they're building regulars can quietly cost you more than a slow Tuesday.
 
-The order to investigate: pull the food cost variance first (cheapest to check, fastest to fix). Then SPLH by daypart. Then bar variance. Most prime cost over-runs are 60-70% food cost and 30-40% labor, with the bar quietly contributing a point or two.
+Investigate in this order. Pull the food cost variance first, since it's the cheapest to check and the fastest to fix. Then SPLH by daypart. Then bar variance. Most prime cost over-runs land at 60-70% food cost and 30-40% labor, with the bar costing you a point or two on top.
 
 ## What this looks like in the calculator
 
-The [prime cost calculator](/calculators/prime-cost/) on this site takes food cost, beverage cost, and fully loaded labor (including the burden multiplier) and returns prime cost percentage against concept-specific benchmarks. Plug in your weekly numbers, see where you land against the 55-65% band, and the answer tells you whether to drill into [food cost](/calculators/food-cost/), [labor cost](/calculators/labor-cost/), or [pour cost](/calculators/liquor-pour-cost/) first.
+The [prime cost calculator](/calculators/prime-cost/) on this site takes food cost, beverage cost, and fully loaded labor (burden multiplier included) and gives you prime cost percentage against concept-specific benchmarks. Plug in your weekly numbers and see where you land against the 55-65% band. The answer points you at whether to dig into [food cost](/calculators/food-cost/), [labor cost](/calculators/labor-cost/), or [pour cost](/calculators/liquor-pour-cost/) first.
 
-The calculator is built for the Monday morning forty-minute routine, not a quarterly review. Run it once a week with the same source data and prime cost stops being a surprise on the P&L.
+I built it for the Monday morning forty-minute routine, not a quarterly review. Run it once a week off the same source data and prime cost stops ambushing you on the P&L.
 
 ## What to do today
 
-Pull last week's sales, last week's inventory count (or estimate ending inventory ±5%), last week's payroll. Apply a 28% burden multiplier to the gross wages. Run the prime cost number. If you have never done this weekly, your first number will probably surprise you. The surprise is the point.
+Pull last week's sales, last week's inventory count (or estimate ending inventory ±5%, close enough to start), last week's payroll. Apply a 28% burden multiplier to the gross wages. Run the number. If you've never done this weekly, your first one is probably going to sting a little. Good. That sting is the whole point.
 
 Sources: [Restaurant365](https://www.restaurant365.com/), [Toast](https://pos.toasttab.com/), [Baker Tilly Restaurant Industry Benchmark Report](https://www.bakertilly.com/), NRA 2024 Industry Factbook.

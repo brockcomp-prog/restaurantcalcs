@@ -8,9 +8,9 @@ relatedCalc: "menu-engineering"
 heroImage: "/illustrations/menu-engineering.webp"
 ---
 
-Menu engineering is the discipline of looking at your menu through two lenses at once: which items make you the most money per cover, and which items get ordered most often. The crossover of those two axes is a four-quadrant matrix that tells you exactly what to do with each item: promote, reprice, reposition, or kill.
+Menu engineering looks at your menu two ways at the same time: which items make you the most money per cover, and which ones get ordered the most. Plot those two against each other and you get a four-quadrant grid. Each box tells you what to do with the item sitting in it. Promote it, reprice it, move it, or kill it.
 
-This is the version that walks through the math, not just the labels.
+Most articles stop at the labels. This one does the math.
 
 ## The two axes
 
@@ -18,7 +18,7 @@ This is the version that walks through the math, not just the labels.
 
 > **Contribution Margin = Menu Price − Food Cost (in dollars per item)**
 
-Note the units. CM is *dollars*, not percentage. A $42 steak with 38% food cost has $26.04 of contribution margin. A $14 salad with 22% food cost has $10.92 of contribution margin. The steak is more profitable per cover despite the higher food cost percentage. This is the trap that makes operators optimize for food cost % instead of CM dollars.
+Watch the units here. CM is *dollars*, not a percentage. A $42 steak with 38% food cost has $26.04 of contribution margin. A $14 salad with 22% food cost has $10.92. So the steak makes you more per cover even though its food cost percentage is uglier. That's the trap that gets operators chasing food cost % instead of CM dollars, and I've watched plenty of good operators fall in it.
 
 **Item velocity** is popularity, measured as a percentage of category sales. The formula:
 
@@ -28,15 +28,15 @@ If you sold 320 burgers, 180 salads, 240 sandwiches, and 110 entrees, the burger
 
 ## The four quadrants
 
-The matrix splits the menu into four boxes based on whether each item is above or below the *category average* on each axis.
+Each item lands in one of four boxes depending on whether it sits above or below the *category average* on each axis.
 
-**Stars: above-average CM, above-average velocity.** These are the items that make money and sell. The instruction: promote and protect. Feature on the menu, train staff to upsell, never run out, never quietly reduce portion or quality.
+**Stars: above-average CM, above-average velocity.** These make money and they sell. Promote and protect them. Feature them on the menu, train the staff to upsell them, never run out, and never quietly shave the portion or the quality when costs creep up. The Star is the one thing on your menu you are not allowed to mess with.
 
-**Plowhorses: below-average CM, above-average velocity.** Popular but not profitable. The instruction: re-cost or reprice carefully. These items are working for you in volume but the per-cover dollar is thin. Watch out for raising prices too aggressively because the popularity is fragile.
+**Plowhorses: below-average CM, above-average velocity.** Popular, but the margin is thin. You want to re-cost or reprice these, carefully. They're earning their keep on volume, so the per-cover dollar is the weak spot, not the demand. Go easy on the price hikes here. The popularity is more fragile than people think, and you can spook it.
 
-**Puzzles: above-average CM, below-average velocity.** Profitable but not popular. The instruction: reposition, train upsell, or re-test. These items make money but don't move. The fix is menu placement, server training, or a name/description change before considering removal.
+**Puzzles: above-average CM, below-average velocity.** Good money, nobody orders it. The fix is reposition, train the upsell, or re-test before you touch the price or pull it. Usually it's a placement problem or a description problem, not a food problem.
 
-**Dogs: below-average CM, below-average velocity.** Low margin and low popularity. The instruction: kill. But check first, sometimes a "dog" is a side dish that doesn't sell as a standalone entrée but appears on many tickets as a modifier. Check the modifier data before pulling it.
+**Dogs: below-average CM, below-average velocity.** Low margin, low popularity, the easy one to cut. But check first. Sometimes a "dog" is a side that flops on its own as an entrée but shows up on half your tickets as a modifier. Pull the modifier data before you pull the item, or you'll kill something that was carrying more weight than the menu line shows.
 
 ## A worked example
 
@@ -71,7 +71,7 @@ Quadrant analysis:
 - **Puzzles** (above-avg CM, below-avg velocity): Steak, Pasta, Tacos, Salmon.
 - **Dogs** (below-avg CM, below-avg velocity): None in this example.
 
-Wait, Salmon is a Puzzle by definition (above-avg CM, below-avg velocity), but only 8 sold. At 8 units sold, it might be a Dog candidate for *practical* reasons (not enough volume to justify keeping the SKU). The matrix gives you the classification; you still have to apply operator judgment.
+Now look at the Salmon. By the definition it's a Puzzle, above-avg CM, below-avg velocity. But only 8 sold. At 8 units a month it's really a Dog for *practical* reasons, because that's not enough volume to justify keeping the SKU, the prep, and the cooler space. The matrix hands you the classification. You still have to apply operator judgment on top of it. That part doesn't go away.
 
 ## What to do with each quadrant
 
@@ -100,7 +100,7 @@ Wait, Salmon is a Puzzle by definition (above-avg CM, below-avg velocity), but o
 
 ## When to rerun the matrix
 
-The matrix changes when sales mix changes. Quarterly is the baseline cadence. Rerun more often when:
+The matrix moves when your sales mix moves. Quarterly is the floor. Rerun it sooner than that when:
 
 - You change a menu price
 - A major ingredient cost shifts more than 5% (which moves CM)
@@ -108,32 +108,32 @@ The matrix changes when sales mix changes. Quarterly is the baseline cadence. Re
 - Seasonal menu changes
 - A new local competitor opens (sometimes shifts your sales mix)
 
-The "do this annually" advice you sometimes see is wrong. Sales mix and ingredient costs move quarterly at minimum.
+The "run this once a year" advice you see floating around is just wrong. Your sales mix and your ingredient costs move every quarter, minimum. A year-old matrix is telling you about a restaurant you don't run anymore.
 
 ## The trap: optimizing for CM % instead of CM dollars
 
-The most common menu engineering mistake is using contribution margin *percentage* instead of contribution margin *dollars*.
+The most common menu engineering mistake is reading contribution margin *percentage* when you should be reading contribution margin *dollars*.
 
-A $14 salad with 22% food cost has 82.9% CM percentage, looks great.
+A $14 salad with 22% food cost has 82.9% CM percentage. Looks great.
 
-A $42 steak with 38% food cost has 65.7% CM percentage, looks worse on paper.
+A $42 steak with 38% food cost has 65.7% CM percentage. Looks worse on paper.
 
-But the steak's CM in dollars is **$27.60**, vs the salad's **$11.60**. Per cover, the steak makes you 2.4x more money.
+But the steak's CM in dollars is **$27.60** against the salad's **$11.60**. Per cover, the steak makes you 2.4x more money. The percentage was lying to you.
 
-The math: you don't pay rent in percentages. You pay rent in dollars. Optimize for total CM dollars across the menu, not for the highest CM percentage line item.
+Here's the whole thing in one line: you don't pay rent in percentages, you pay it in dollars. Optimize for total CM dollars across the menu, not for whichever line item posts the prettiest CM percentage.
 
-This matters most in menu placement decisions. Feature the high-CM-dollar items, even if their CM percentage is lower than the appetizers. A steakhouse with featured steaks at 38% food cost is doing the right thing; a steakhouse with featured salads at 22% food cost is leaving money on the table.
+Where this bites hardest is menu placement. Feature the high-CM-dollar items even when their CM percentage is lower than the appetizers. A steakhouse that features its steaks at 38% food cost is doing it right. A steakhouse that features the salad at 22% food cost is handing money back at every table and calling it discipline.
 
 ## What this looks like in the calculator
 
-The [menu engineering calculator](/calculators/menu-engineering/) on this site takes your menu items, their sales counts, prices, and food costs and returns the matrix classification per item with the quadrant action. Update it quarterly (or after any major menu change) and let it tell you what to feature, what to reprice, and what to remove.
+The [menu engineering calculator](/calculators/menu-engineering/) on this site does the plotting for you. Feed it your items, the sales counts, the prices, and the food costs, and it hands back the quadrant for each item plus the action that goes with it. Run it quarterly, or after any real menu change, and it'll tell you what to feature, what to reprice, and what to cut.
 
 For the underlying margin math, see [Contribution Margin vs Food Cost Percentage](/blog/contribution-margin-vs-food-cost-percentage/).
 
 ## What to do today
 
-Pull last month's sales count by menu item. Pull current food cost per item. Calculate CM in dollars and velocity percentage. Plot the four quadrants. The action list (promote, reprice, reposition, remove) writes itself once the matrix is built.
+Pull last month's sales count by menu item. Pull the current food cost per item. Work out CM in dollars and velocity percentage, then plot the four quadrants. Once the matrix is built, the action list writes itself. Promote, reprice, reposition, remove.
 
-The first time you do this, you will find one Star that you haven't been featuring and one Dog that you have been protecting out of habit. Both are easy wins.
+The first time you do this you'll find a Star you haven't been featuring and a Dog you've been protecting out of pure habit. Both are easy wins, and both have probably been sitting there for months.
 
 Sources: [Toast](https://pos.toasttab.com/), [MarginEdge](https://www.marginedge.com/blog/), Restaurant Peers, [meez](https://www.getmeez.com/), Cornell Hotel School menu engineering research.

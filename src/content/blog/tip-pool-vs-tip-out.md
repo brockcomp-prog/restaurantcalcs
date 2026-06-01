@@ -8,15 +8,15 @@ relatedCalc: "tip-pool"
 heroImage: "/illustrations/tip-pool.webp"
 ---
 
-Tip pool and tip out get used interchangeably but they are different structures. Tip pool is one bucket that gets redistributed. Tip out is a server taking a percentage of their sales and passing it to support staff. The legal implications, compliance flags, and operational tradeoffs differ. Here is the operator framing.
+People say tip pool and tip out like they're the same thing. They're not. A tip pool is one bucket that gets redistributed. A tip out is a server taking a cut of their sales and handing it down to support staff. Those two setups carry different legal risk, different compliance flags, different headaches on a Friday night. Here's how I'd frame it after running both.
 
 ## Definitions
 
-**Tip pool:** All tipped employees pool their tips into one bucket. The pool gets redistributed based on hours worked, points, or another agreed formula. No individual server "owns" their tips.
+**Tip pool:** All tipped employees throw their tips into one bucket. The pool gets redistributed based on hours worked, points, or whatever formula the house agreed on. No server "owns" their tips.
 
-**Tip out:** Each server keeps their own tips but gives a fixed percentage of their sales (or their tips) to support staff. Bartender, busser, runner, host each get a piece. The server keeps the rest.
+**Tip out:** Each server keeps their own tips but hands a fixed percentage of their sales (or their tips) to support staff. The bartender, busser, runner, and host each get a piece, and the server keeps the rest.
 
-The key difference: in a tip pool, tips are collective from the start. In tip out, tips are individual and get distributed downstream.
+Here's the line that matters: in a tip pool, the tips are collective from the second they hit the table. In a tip out, they start out as the server's and get distributed downstream.
 
 ## Standard tip-out percentages
 
@@ -29,11 +29,11 @@ Industry-typical tip-out percentages by support role:
 
 **Total tip-out:** Most concepts run **4-8% of sales** out to support staff, or **15-25% of server tips** depending on how it's structured.
 
-The percentage matters because servers track it. A 6% tip-out on a $20K weekly sales section is $1,200 of tip income gone to support staff. Servers know the number.
+The percentage matters because servers track it down to the dollar. A 6% tip-out on a $20K weekly sales section is $1,200 of their tip income gone to support staff. Trust me, they know that number cold.
 
 ## A worked example
 
-Server section produces $4,800 in food and beverage sales over a Friday-Saturday shift. Customer tips average 22%, so total tips are $1,056.
+Say a server section does $4,800 in food and beverage sales over a Friday-Saturday double. Customer tips average 22%, so total tips land at $1,056.
 
 **Scenario A: Sales-based tip-out (typical full-service)**
 
@@ -51,7 +51,7 @@ Server section produces $4,800 in food and beverage sales over a Friday-Saturday
 - **Total tip-out: $137.28**
 - Server take-home: $1,056 − $137.28 = **$918.72**
 
-Sales-based tip-out is operationally cleaner (the number is calculable from the POS report) but creates volatility for support staff on low-tip nights. Tips-based tip-out is fairer to support staff but operationally trickier (servers report their tips and the math runs from there).
+Sales-based tip-out is cleaner to run because the number pulls straight off the POS report, but it stings support staff on a slow, low-tip night when the sales were still there. Tips-based tip-out is fairer to the bussers and runners. It's just a bigger pain, since servers have to report their tips honestly and the whole thing runs off that number. My take: if you trust your floor, go tips-based. If you don't, that's a different problem than your tip structure.
 
 ## The §3(m)(2)(B) rule (and why it matters)
 
@@ -59,11 +59,11 @@ FLSA section 3(m)(2)(B) is the federal rule that governs which employees can be 
 
 **The rule:** Back-of-house staff (line cooks, dishwashers, prep cooks) can be included in a tip pool ONLY if the employer pays full minimum wage and takes no tip credit. If the employer takes a tip credit (paying $2.13/hr to tipped workers and counting tips toward minimum wage), back-of-house staff CANNOT be in the tip pool.
 
-**Managers and supervisors:** Always excluded from tip pools, regardless of tip credit status. This is non-negotiable. The DOL applies the FLSA executive duties test, if someone has supervisory authority, they cannot share tips.
+**Managers and supervisors:** Always out of the pool, tip credit or not. There's no wiggle room here. The DOL runs the FLSA executive duties test, and if someone has supervisory authority, they don't touch the tips. Full stop.
 
-**Tip out** is functionally a private agreement between server and support staff, but if the back-of-house staff are sharing in the tip out and the operator is taking a tip credit, the same restriction applies.
+**Tip out** is basically a private handshake between the server and support staff. But if your back-of-house is getting a piece of that tip out and you're taking a tip credit, the same restriction lands on you.
 
-Compliance trap: many operations in tip-credit states (most of the country) have BOH eating from the tip pool or receiving tip-out portions while the operator is still paying $2.13/hr to tipped workers. DOL audits this aggressively. Penalties are back pay plus liquidated damages plus attorney fees, easily 3-5x the original "savings."
+Here's the trap I see most. Plenty of operations in tip-credit states, which is most of the country, have BOH eating from the tip pool or pulling tip-out money while the operator is still paying $2.13/hr to tipped workers. The DOL goes after this hard. Penalties run back pay plus liquidated damages plus attorney fees, and that bill is easily 3-5x whatever you thought you were "saving." Not worth it.
 
 For the full FLSA breakdown, see [Tip Pool Legal Guide 2026](/blog/tip-pool-legal-guide-2026/).
 
@@ -71,67 +71,67 @@ For the full FLSA breakdown, see [Tip Pool Legal Guide 2026](/blog/tip-pool-lega
 
 **No tip credit allowed** (full minimum wage required for tipped workers): California, Nevada, Oregon, Washington, Minnesota, Alaska, Montana.
 
-In these states, BOH inclusion in the tip pool is legal under federal FLSA because no tip credit is being taken. But state-specific tip rules can add additional restrictions. California in particular has nuanced rules around mandatory service charges and tip pooling.
+In these states, putting BOH in the tip pool is fine under federal FLSA because nobody's taking a tip credit. But the state can pile on its own restrictions. California especially has its own headaches around mandatory service charges and tip pooling, so don't assume federal clears you.
 
-**Tip credit allowed:** Most other states use the federal $2.13 base + tip credit structure. In these states, BOH inclusion requires the operator to forgo the tip credit and pay full minimum wage.
+**Tip credit allowed:** Most other states run the federal $2.13 base plus tip credit structure. There, getting BOH in the pool means the operator gives up the tip credit and pays full minimum wage.
 
-The operational decision: if you want BOH in the tip pool, you give up the tip credit. The trade-off is usually positive for retention and morale, even though it raises labor cost on paper.
+So the call comes down to this: if you want the kitchen in the pool, you give up the tip credit. On paper that raises your labor cost. In practice I'd take that trade most days, because what it buys you in retention and morale usually pays for itself.
 
 ## When tip pool wins
 
 Tip pool tends to win when:
 
-**1. Team service concept.** Multiple servers and runners working tables together, food runners delivering to any table that's ready, side work shared. The "whose table?" question is fuzzy.
+**1. Team service concept.** Multiple servers and runners working tables together, runners dropping food at whatever table is ready, side work split across the floor. Nobody can really answer "whose table is this?" and that's the point.
 
-**2. BOH inclusion is desired.** Many concepts want to share tips with kitchen for morale and retention. Tip pool with full minimum wage paid is the cleanest legal structure.
+**2. BOH inclusion is desired.** A lot of operators want to cut the kitchen in for morale and retention, and honestly they should. Tip pool with full minimum wage paid is the cleanest legal way to do it.
 
-**3. Service expectations are uniform.** Concepts where every guest gets similar service quality (chain restaurants, multi-server-section operations).
+**3. Service expectations are uniform.** Every guest gets roughly the same experience, like a chain or a big multi-server-section operation. When the service is interchangeable, the tips should be too.
 
-**4. New servers need a safety net.** Pool flattens earnings variance, which makes hiring and training easier because new servers aren't penalized during their ramp.
+**4. New servers need a safety net.** A pool flattens the variance, so a new hire isn't getting buried during their first few weeks on the floor. That makes hiring and training a lot less painful.
 
 ## When tip out wins
 
 Tip out tends to win when:
 
-**1. Sectioned service with individual accountability.** Each server has their own section, runs their own service, owns their guest relationships.
+**1. Sectioned service with individual accountability.** Each server owns a section, runs their own service, and owns the relationship with every guest in it. Your good night is yours, and so is your bad one.
 
-**2. Experience-based earning is the model.** Operations where high-performing servers earn meaningfully more than low-performing servers, and that variance is a feature, not a bug.
+**2. Experience-based earning is the model.** Your strong servers pull meaningfully more than your weak ones, and you want it that way. That spread isn't a bug to flatten out. It's the whole incentive.
 
-**3. Bar-driven concepts.** Bartender working their own bar earns their own tips; servers tip out the bar a percentage of their sales (representing drinks served by the bar to the server's tables).
+**3. Bar-driven concepts.** The bartender works their own bar and keeps their own tips, and the floor tips out the bar a percentage of sales for the drinks that bar made for their tables. I bartend now, so I'll just say it: the bar earns that cut.
 
-**4. Transparent payouts are operationally easier.** Some concepts find pool math harder to explain than tip-out math (which is just a flat percentage of sales).
+**4. Transparent payouts are operationally easier.** Plenty of operators find pool math harder to explain than a flat tip-out percentage off sales. If your team can't follow the math, they assume they're getting robbed.
 
 ## The four-question switch test
 
-Considering switching from one to the other? Ask these four questions in order.
+Thinking about switching one way or the other? Walk these four questions in order, no skipping.
 
-**1. Are you taking a tip credit?** If yes, BOH inclusion in pool is off the table. If you want BOH included, you must give up the tip credit (and absorb the labor cost increase).
+**1. Are you taking a tip credit?** If yes, BOH in the pool is off the table. Want them in? You give up the tip credit and you eat the labor cost that comes with it.
 
-**2. Is your service model team-based or section-based?** Team-based: pool. Section-based: tip out. Mixed concepts usually run tip out with a smaller pool element for support staff.
+**2. Is your service model team-based or section-based?** Team-based runs a pool. Section-based runs a tip out. Mixed concepts, which is most independents I've seen, usually run a tip out with a small pool element bolted on for support staff.
 
-**3. Do high performers want to earn variance?** If servers want their good nights to feel good (and their bad nights to be theirs to own), tip out is the answer. If servers want consistent earnings, pool is the answer.
+**3. Do high performers want to earn variance?** If your servers want their great nights to actually feel great, and they'll own the rough ones too, tip out is your answer. If they'd rather know what's landing in their pocket every shift, pool it.
 
-**4. Can you explain the math in 90 seconds?** Whichever structure you can explain clearly to a new hire is the right structure. A complex pool with weights, points, and exceptions is harder to maintain than a simple sales-based tip out.
+**4. Can you explain the math in 90 seconds?** Whatever you can explain clean to a brand-new hire is the right structure, period. A pool with weights and points and three exceptions is a nightmare to maintain compared to a flat sales-based tip out. Complexity isn't sophistication. It's just future arguments you scheduled for yourself.
 
 ## Compliance flags either way
 
-Whichever structure you use, get these right:
+Whichever structure you run, get these right:
 
-- **No managers in tips, ever.** Strict FLSA rule.
-- **Tip records.** Keep records for at least 3 years. Servers report their tips. POS tracks tip-outs.
-- **Notice requirements.** Workers must know the structure in writing before they start.
-- **No employer skim.** The operator cannot take any portion of tips for any reason. Credit card fees on tips can be deducted in some states; check yours.
+- **No managers in tips, ever.** Hard FLSA rule, no exceptions, don't get cute with it.
+- **Tip records.** Keep them at least 3 years. Servers report their tips, the POS tracks the tip-outs, and you keep the paper.
+- **Notice requirements.** Workers have to know the structure in writing before they clock their first shift.
+- **No employer skim.** The operator can't take a single cent of tips for any reason, ever. Credit card fees on tips can be deducted in some states, so check yours before you assume.
 
-Run any new structure past a labor attorney before implementation. The DOL audit cost on a tip pool problem is multiples of the legal consultation cost.
+Before you roll out anything new, run it past a labor attorney. A couple hundred bucks for a consult is nothing next to what a DOL tip-pool finding costs you.
 
 ## What this looks like in the calculator
 
-The [tip pool calculator](/calculators/tip-pool/) on this site runs both structures and shows side-by-side what each looks like for a given shift. It includes the FLSA compliance flags for BOH inclusion and manager exclusion. Use it to model a transition before announcing the change.
+The [tip pool calculator](/calculators/tip-pool/) on this site runs both structures and lays them side by side for a given shift. It flags the FLSA stuff too, BOH inclusion and manager exclusion. Model the transition there before you announce a thing to your staff, because once you say it out loud you own it.
 
 ## What to do today
 
-Document your current structure in writing. If you can't explain it in a paragraph, the structure is too complex. Run the four questions above against your current setup. If you are taking a tip credit AND have BOH in the tip pool, fix the compliance problem this week before anything else.
+Write down your current structure today. If you can't get it into one paragraph, it's too complicated and your staff already knows it. Run the four questions above against what you've got. And if you're taking a tip credit AND have BOH eating from the tip pool, drop everything and fix that this week. That one can actually cost you.
 
-Most tip-pool friction in independent restaurants is from unclear math, not from the underlying structure. The fix is documentation and transparency, not necessarily a structural change.
+Most of the tip fights I've watched in independent restaurants weren't about the structure at all. They were about fuzzy math nobody bothered to explain. Write it down, keep it transparent, and you fix most of it without touching the structure underneath.
 
 Sources: [DOL Wage and Hour Division Fact Sheet #15](https://www.dol.gov/agencies/whd/fact-sheets/15-tipped-employees-flsa), [7shifts](https://www.7shifts.com/blog/), [Toast](https://pos.toasttab.com/), [Restaurant Business Online](https://www.restaurantbusinessonline.com/), [FindLaw labor law summaries](https://www.findlaw.com/).

@@ -8,7 +8,7 @@ relatedCalc: "prime-cost"
 heroImage: "/illustrations/prime-cost.webp"
 ---
 
-The restaurant industry runs on thin margins. Industry-wide net profit margin sits at **3-9%** depending on segment (NRA 2024, Toast, Baker Tilly). What that means in dollars depends entirely on what is left after every other cost on the P&L. Here is the breakdown by segment and what each band actually looks like in practice.
+Restaurant margins are thin. That's the whole game. Industry-wide net profit margin sits at **3-9%** depending on segment (NRA 2024, Toast, Baker Tilly), and what that actually means in dollars comes down to whatever is left after every other line on the P&L gets paid. So here's the breakdown by segment, plus what each band looks like when you're the one signing the checks.
 
 ## Industry-wide and by segment
 
@@ -27,7 +27,7 @@ By segment:
 - **Bar-only (no kitchen):** 8-15% net (high beverage margin lifts the floor)
 - **Steakhouse / fine dining steakhouse:** 5-12% net
 
-The published numbers come from operator surveys and industry averages. Real distributions are bimodal: well-run operations sit at the top of the segment band, struggling operations cluster at the bottom or run negative. The "median operator" framing hides this.
+Those published numbers come from operator surveys and industry averages, and the averages lie to you a little. The real spread is bimodal. Well-run operations sit at the top of the band, and the strugglers pile up at the bottom or run negative. There aren't many in the middle. The "median operator" is mostly a number on a slide, not a real restaurant.
 
 ## What 6% net margin looks like in dollars
 
@@ -50,54 +50,54 @@ A casual full-service restaurant doing **$1.2M** in annual revenue at 6% net mar
 - **Total costs: $1,114,800 (92.9%)**
 - **Net profit: $85,200 (7.1%)**
 
-This is a healthy operation. Top of the 3-8% band. The owner who shows up for the day-to-day is also taking the $60K manager salary on top of the $85K net. Combined owner income: $145K from a $1.2M operation.
+That's a healthy operation, top of the 3-8% band. And the owner who actually shows up and works the floor is taking the $60K manager salary on top of the $85K net, so combined owner income is $145K off a $1.2M operation. That's a real living. It's also six days a week and you're the one getting the 11pm call when the walk-in dies.
 
 The same operation at the bottom of the band (3% net):
 
 - Same revenue, but labor at 33% and food cost at 35%
 - Net profit: $36,000
 
-The owner taking $60K salary against $36K net means the owner is essentially funding the business with under-market pay. The net should flow back to the owner as profit, not as wage replacement. Three-percent-net operations are not making money; they are running.
+Now the owner is pulling $60K in salary against $36K of net, which means they're propping the business up with their own under-market pay. The net is supposed to come back to you as profit, not quietly cover the wage you should've been paid in the first place. Three-percent-net operations aren't making money. They're just open.
 
 ## Why margins are so thin
 
-Three structural drivers keep restaurant margins tight:
+A few things about the structure keep these margins pinned tight:
 
-**1. Fixed costs are high relative to revenue.** Rent in most urban markets runs 7-12% of revenue. Utilities 3-5%. Insurance 1-2%. Loan service 2-5%. The fixed-cost stack consumes 15-25% of revenue before any variable cost is paid.
+**1. Fixed costs are high relative to revenue.** Rent in most urban markets runs 7-12% of revenue. Utilities 3-5%. Insurance 1-2%. Loan service 2-5%. Stack all that up and 15-25% of revenue is gone before you've bought a single tomato.
 
-**2. Variable costs are also high.** Prime cost (food + labor) runs 55-65% in most segments. Add 2-3% for credit card processing and operating supplies. That is 57-68% on variable cost alone.
+**2. Variable costs are also high.** Prime cost, which is food plus labor, runs 55-65% in most segments. Tack on another 2-3% for credit card processing and operating supplies and you're at 57-68% on variable cost alone.
 
-**3. Pricing pressure is constant.** Customers compare prices, social media flags increases, and labor / ingredient cost inflation runs faster than restaurants can raise prices without losing volume. The window between "we have to raise prices" and "we lost customers" is small.
+**3. You can't raise prices in peace.** Customers compare prices, social media lights up the second you bump an entree, and ingredient and labor inflation moves faster than you can push it through to the menu without losing covers. The gap between "we have to raise prices" and "we lost regulars" is tiny, and you find out which side you're on after the fact.
 
-The math: 100% revenue − 60% variable − 22% fixed = 18% before owner pay − 12% for owner pay + amortization − 2% for taxes = 4% net. That is the structural math of a restaurant. Most operations are not at 4% by accident; they are there because the structure produces that number.
+The math: 100% revenue − 60% variable − 22% fixed = 18% before owner pay − 12% for owner pay + amortization − 2% for taxes = 4% net. That's the structural math of a restaurant, and it's why so many land near 4%. It isn't bad luck or a lazy operator. The structure spits out that number on its own unless you go fight it on purpose.
 
 ## Where the well-run operations win
 
-The top-quartile operations consistently win on the same five things:
+The top-quartile operations keep winning on the same handful of things, and none of them are a secret:
 
-**1. Forecast-based scheduling.** Labor cost runs 3-5 points lower than median operators not because they pay less but because they schedule against forecasts. See [How to Reduce Labor Cost Without Cutting Hours](/blog/reduce-labor-cost-without-cutting-hours/).
+**1. Forecast-based scheduling.** Their labor cost runs 3-5 points under the median operator, and it isn't because they pay people worse. They schedule against a forecast instead of just throwing bodies at the floor and hoping. See [How to Reduce Labor Cost Without Cutting Hours](/blog/reduce-labor-cost-without-cutting-hours/).
 
-**2. Weekly inventory.** Food cost variance stays in the 2-3% band instead of the 5-8% band most operators run. The 3-5 point savings flows to net margin. See [Why Monthly Inventory Lies](/blog/weekly-vs-monthly-inventory/).
+**2. Weekly inventory.** Food cost variance stays in the 2-3% band instead of the 5-8% swing most operators live with. That 3-5 point difference drops straight to net margin. See [Why Monthly Inventory Lies](/blog/weekly-vs-monthly-inventory/).
 
-**3. Menu pricing discipline.** Top-quartile operators reprice quarterly when ingredient costs shift, not annually after the damage is done. A 6% ingredient cost increase passed through within 60 days protects margin. A 6% increase absorbed for 12 months costs 3 points of food cost.
+**3. Menu pricing discipline.** They reprice quarterly when ingredient costs move, instead of once a year after the bleeding's already done. Push a 6% ingredient increase through within 60 days and you protect margin. Sit on that same 6% for 12 months and it quietly eats 3 points of food cost while you tell yourself it'll even out.
 
-**4. Bar program profitability.** Heavy beverage mix (35%+ of revenue) on healthy pour cost (18-22% blended) adds 2-4 points to net margin compared to a similar concept at 25% beverage mix.
+**4. Bar program profitability.** This is the one I'd push hardest, because I've lived behind a bar. A heavy beverage mix (35%+ of revenue) on a healthy pour cost (18-22% blended) adds 2-4 points to net margin over a similar concept stuck at 25% beverage mix. Liquor doesn't spoil and it doesn't need a line cook. The bar is where the easy money hides.
 
-**5. Low fixed-cost negotiation.** Rent below 8%, insurance below 1.5%, software stack under 1.5%. The fixed-cost drag is the hardest to reduce but the most durable when you do.
+**5. Low fixed-cost negotiation.** Rent under 8%, insurance under 1.5%, software stack under 1.5%. Fixed costs are the hardest thing to move, but once you win on them, they stay won. Nobody's renegotiating your rent back up on you next quarter.
 
 ## What changes between segments
 
-QSR runs higher net margin (6-12%) for two reasons: lower labor cost as a share of revenue (no full-service service ratio), and lower food cost percentage (volume purchasing, standardized recipes, less waste). The trade-off is lower per-unit revenue ceiling.
+QSR runs higher net margin (6-12%) for two reasons. Labor is a smaller share of revenue because there's no full-service waiter ratio to carry, and food cost percentage is lower thanks to volume purchasing, standardized recipes, and less stuff hitting the trash. What you give up is the per-unit revenue ceiling. There's only so much you can ring up per ticket.
 
-Ghost kitchens run higher *paper* margin (10-15%) because they save on rent and front-of-house labor. The reality often lands at 3-8% after third-party delivery commission eats the savings. See [What Third-Party Delivery Actually Costs You](/blog/third-party-delivery-real-cost/).
+Ghost kitchens look great on *paper*, 10-15% net, because they skip the rent and the front-of-house labor. Then reality shows up and it's more like 3-8% once third-party delivery commission swallows the savings whole. See [What Third-Party Delivery Actually Costs You](/blog/third-party-delivery-real-cost/).
 
-Fine dining runs higher *dollar* profit per cover but similar or slightly higher percentage margin (4-10%) because the absolute spending is higher. A 6% net on a $90 average check delivers more dollars than 6% net on a $32 average check.
+Fine dining throws off more *dollars* per cover but lands at a similar or slightly higher percentage margin (4-10%), because the whole check is bigger. A 6% net on a $90 average check is just a lot more money than 6% net on a $32 check, even though the percentage reads the same.
 
-Bar-only operations have the highest structural net (8-15%) because beverage margins are higher than food margins and labor allocation is lower per dollar of revenue.
+Bar-only operations carry the highest structural net (8-15%). Beverage margins beat food margins, and you're paying out less labor per dollar of revenue. A bartender and a register move a lot of money for what you spend to run it.
 
 ## How to set a net margin target
 
-The right target for your operation depends on your specific structure:
+There's no universal number here. The right target depends on how your own operation is built, so start with the band and adjust:
 
 1. Start with your segment median (use the bands above).
 2. Add 2-4 points if you are top-quartile on prime cost.
@@ -105,18 +105,18 @@ The right target for your operation depends on your specific structure:
 4. Add 1-2 points if you have a profitable bar program at 30%+ revenue share.
 5. Subtract 1-3 points if you have significant debt service (5%+ of revenue).
 
-A casual full-service with healthy prime cost (55-58%), 9% rent, 25% beverage mix, and modest debt service should target **6-8% net margin**. Below 4%, the operation is structurally fragile. Above 8%, the operation has room to invest in renovations, wages, or new units.
+A casual full-service with healthy prime cost (55-58%), 9% rent, 25% beverage mix, and modest debt service should be shooting for **6-8% net margin**. Drop below 4% and you're fragile, one bad quarter from real trouble. Clear 8% and now you've got room to actually do something with it, redo the dining room, pay your people better, or open a second spot.
 
 ## What this looks like in the calculator
 
-The [prime cost calculator](/calculators/prime-cost/) sets the variable-cost floor (food + labor). The [break-even calculator](/calculators/break-even/) shows where the fixed-cost ceiling sits. The gap between revenue and break-even is your contribution margin. Subtract the rest of the fixed costs and what is left is net margin.
+The [prime cost calculator](/calculators/prime-cost/) sets your variable-cost floor (food + labor). The [break-even calculator](/calculators/break-even/) shows you where the fixed-cost ceiling sits. The gap between revenue and break-even is your contribution margin. Take out the rest of the fixed costs and whatever's left is your net margin. That's it. No magic.
 
 For per-platform delivery profitability, see [delivery profit calculator](/calculators/delivery-profit/).
 
 ## What to do today
 
-Pull last year's full P&L. Calculate net margin (net profit ÷ revenue × 100). Compare to the segment band. If you are below the band, the question is which line is consuming the margin: prime cost? rent? credit card processing? owner draws being booked as expense?
+Pull last year's full P&L. Run your net margin (net profit ÷ revenue × 100) and put it next to your segment band. If you're under the band, the real question is which line is eating the difference. Prime cost? Rent? Credit card processing? Owner draws getting booked as an expense and quietly hiding the truth?
 
-The answer is almost always one of three things: prime cost is hot, fixed costs are too high for the revenue level, or the operation is too small to support the fixed-cost stack. Each has a different fix. None of them are "raise prices" alone.
+Almost every time, it's one of three things. Prime cost is running hot, the fixed costs are too heavy for the revenue you're doing, or the place is just too small to carry the fixed-cost stack at all. Different problem, different fix. And the fix is basically never "raise prices" on its own, even though that's the first thing everybody reaches for.
 
 Sources: [NRA 2024 Industry Factbook](https://restaurant.org/research-and-media/research/economists-notebook/), [Toast Industry Reports](https://pos.toasttab.com/resources), [Baker Tilly Restaurant Industry Benchmark Report](https://www.bakertilly.com/), [Restaurant Accounting Services](https://www.restaurantaccountingservices.com/).

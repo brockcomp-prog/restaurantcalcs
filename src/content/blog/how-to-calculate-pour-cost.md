@@ -8,31 +8,31 @@ relatedCalc: "liquor-pour-cost"
 heroImage: "/illustrations/liquor-pour-cost.webp"
 ---
 
-The first beverage director I worked under handed me a clipboard one Sunday and said "the target is 20%." Six months later I figured out the target was wrong. Not 20% specifically. The idea that *one number* could measure a bar program with beer, wine, and spirits all priced differently and pouring differently.
+The first beverage director I worked under handed me a clipboard one Sunday and said "the target is 20%." Six months later I figured out the target was wrong. Not 20% specifically. The whole idea that *one number* could measure a bar program with beer, wine, and spirits all priced differently and pouring differently was the part that was off.
 
-This is the version of pour cost I wish somebody had explained the first time I set a target.
+This is the version of pour cost I wish somebody had explained to me the first time I set a target.
 
 ## The formulas
 
-There are two pour cost formulas. Operators use them interchangeably and confuse themselves.
+There are two pour cost formulas, and most operators use them interchangeably and confuse themselves.
 
 **Aggregate pour cost:**
 
 > **Pour cost % = Bar COGS ÷ Bar Sales × 100**
 
-This is the P&L version. Same structure as food cost. Useful for tracking the whole bar program against a single number.
+This is the P&L version, same structure as food cost. Useful for tracking the whole bar program against a single number.
 
 **Per-drink pour cost:**
 
 > **Drink pour cost = (Bottle cost × Pour oz) ÷ (Usable oz per bottle × Drink price)**
 
-This is the recipe version. Tells you the cost of one specific drink. Useful for pricing decisions and spec-sheet work.
+This is the recipe version. It tells you the cost of one specific drink, which is what you want for pricing decisions and spec-sheet work.
 
 A 750mL bottle is 25.4 oz. At a 1.5 oz pour spec, that is 16.9 drinks per bottle. Account for spillage and finish-off-pours (usually 1-2 drinks of waste per bottle), call it **15 servable drinks** from a 750mL. A 1.75L bottle (59.2 oz) yields about **38 servable drinks** at 1.5 oz pour.
 
 ## A worked example
 
-A bottle of well vodka costs you $24 from the distributor. Standard 1.5 oz pour. Sell vodka soda for $9.
+Say a bottle of well vodka costs you $24 from the distributor. Standard 1.5 oz pour. You sell the vodka soda for $9.
 
 - Cost per drink: $24 ÷ 15 servable drinks = **$1.60**
 - Pour cost: $1.60 ÷ $9.00 = **17.8%**
@@ -44,11 +44,11 @@ Same bottle, real-world bartender pour: 1.75 oz (industry-average actual pour, B
 - Real cost per drink: $24 ÷ 13.5 = **$1.78**
 - Real pour cost: $1.78 ÷ $9.00 = **19.8%**
 
-A 2-point shift on the spec versus actual gap. Multiplied across 80 well-vodka drinks a week, that is **$14.40 of margin** disappearing into the over-pour. Multiply by every well bottle on the rail and the number gets serious fast.
+That is a 2-point shift, and all of it lives in the gap between spec and what actually goes in the glass. Multiplied across 80 well-vodka drinks a week, that's **$14.40 of margin** disappearing into the over-pour. Multiply by every well bottle on the rail and the number gets serious fast.
 
 ## Why a single 20% target is operator nonsense
 
-A 20% blended pour cost target makes sense as a back-of-envelope check. It is wrong as an operational target because the three drink categories pour very differently.
+A 20% blended pour cost target is fine as a back-of-envelope check. As an operational target it's wrong, because beer, wine, and spirits pour nothing alike.
 
 **Industry targets by category** (Backbar, Provi, BinWise):
 
@@ -60,11 +60,11 @@ A 20% blended pour cost target makes sense as a back-of-envelope check. It is wr
 - **Cocktails (blended):** 18-22%
 - **Total beverage program:** 18-24%
 
-Run a single 20% target against a bar that does 50% beer / 25% wine / 25% spirits and the math is misleading. Each category's variance against its own target is more diagnostic than the aggregate. A blended 22% pour cost could be 17% spirits (great), 26% beer (bad), 24% wine (slightly hot) and tell you exactly which category needs work. Or it could be 22% across the board (fine) and tell you nothing actionable.
+Run a single 20% target against a bar that does 50% beer / 25% wine / 25% spirits and the math lies to you. What you actually want is each category's variance against its own target, because that's the part that tells you where to go look. A blended 22% pour cost could be 17% spirits (great), 26% beer (bad), 24% wine (slightly hot), and now you know exactly which category needs work. Or it could be 22% across the board (fine) and tell you nothing you can act on.
 
 ## The 1.5 oz pour myth
 
-Most bars run a 1.5 oz pour spec. Most bartenders actually pour 1.75-2 oz, especially on well drinks and especially when the spec is enforced by free-pour rather than jigger.
+Most bars run a 1.5 oz pour spec. Then most bartenders actually pour 1.75-2 oz, especially on well drinks, and especially when the only thing enforcing the spec is a free-pour count instead of a jigger.
 
 Industry-average actual pour (measured studies):
 
@@ -76,7 +76,7 @@ Industry-average actual pour (measured studies):
 
 The cost of free-pour: typically 8-15% over-pour, which translates to 1.5-3 points of pour cost above what the spreadsheet says. On a $400K annual beverage program, that is **$6,000-$12,000** lost to pour technique.
 
-The fix is jiggers. Not portion-control devices (expensive, kill bar flow). Just jiggers, on the rail, with a manager who checks. The first three weeks are painful because the bartenders complain. The fourth week the pour cost drops 2 points and the complaints stop.
+The fix is jiggers. Not portion-control devices, which are expensive and kill bar flow. Just jiggers, on the rail, with a manager who actually checks. The first three weeks are miserable because the bartenders complain, and they will let you know about it. Then the fourth week the pour cost drops 2 points and the complaints stop. Every time.
 
 ## A worked example: when 20% on paper costs you 26% in reality
 
@@ -92,11 +92,11 @@ The same well vodka example, with everything that can go wrong:
 - $9 menu price
 - Real pour cost: $2.14 ÷ $9 = **23.8%**
 
-The spreadsheet said 17.8%. Reality said 23.8%. The 6-point gap is the sum of over-pour, spillage, and a single free drink per bottle. Multiply by 80 bottles a week and you are looking at $500/week in margin that nobody is tracking.
+The spreadsheet said 17.8%. Reality said 23.8%. That 6-point gap is just over-pour, spillage, and one free drink per bottle stacked on top of each other. Multiply by 80 bottles a week and you're staring at $500/week in margin that nobody is tracking.
 
 ## Variance: where the gap actually lives
 
-When pour cost runs above the category target, the variance lives in one of six places (in rough order of size):
+When pour cost runs above the category target, the variance is hiding in one of six places. Roughly in order of how much damage each one does:
 
 1. **Over-pour from free-pouring.** The big one. 60-70% of pour cost over-runs trace here.
 2. **Comps without manager approval.** "Buy-back" culture in bars that comp a drink for every 3 sold. Sometimes a deliberate hospitality move, sometimes loose discipline.
@@ -109,12 +109,12 @@ For each leak in detail, see [5 Ways Bar Pour Cost Actually Leaks](/blog/bar-pou
 
 ## What this looks like in the calculator
 
-The [liquor pour cost calculator](/calculators/liquor-pour-cost/) on this site runs both formulas, aggregate (for your weekly tracking) and per-drink (for spec work). It includes spillage adjustment, free-pour over-pour modeling, and benchmarks by category so you can see where each part of the program lands against the right target.
+The [liquor pour cost calculator](/calculators/liquor-pour-cost/) on this site runs both formulas, aggregate (for your weekly tracking) and per-drink (for spec work). It handles spillage adjustment, free-pour over-pour modeling, and benchmarks by category, so you can see where each part of the program lands against the right target instead of one blended number that hides everything.
 
 ## What to do today
 
-Pull last week's bar sales by category if your POS supports it. Pull last week's bar invoices. Calculate pour cost separately for beer, wine, and spirits. Compare against the segment targets above. The category that runs furthest above target is where the leak is. Fix it before averaging out the others.
+Pull last week's bar sales by category if your POS supports it, then pull last week's bar invoices. Calculate pour cost separately for beer, wine, and spirits, and compare each one against the segment targets above. Whichever category runs furthest above its target is where the leak is. Fix that one before you go averaging the others out.
 
-If your POS doesn't separate bar sales by category, that is the first fix to make. A bar program without category-level visibility is a bar program operating blind.
+If your POS doesn't separate bar sales by category, that's the first fix to make. A bar program without category-level visibility is a bar program running blind, and you won't catch the leak until it's already cost you a month of margin.
 
 Sources: [Backbar](https://getbackbar.com/), [BinWise](https://home.binwise.com/), [Provi](https://www.provi.com/), [Sculpture Hospitality](https://sculpturehospitality.com/), [BevSpot](https://bevspot.com/blog/).

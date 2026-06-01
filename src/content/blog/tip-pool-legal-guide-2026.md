@@ -16,7 +16,7 @@ What I should have said: "Federal law is unambiguous on this. Managers and super
 
 What I actually said was closer to "uhhh." Then a long pause. Then a much weirder, longer version of the same thing that left both of us feeling like we'd done something wrong. He walked off. He never brought it up again. (Also true: I had to give that same conversation more times than I'd like to admit, in the five years I ran the bar at Cosmos Taverna in California. It got smoother. Not by much.)
 
-The reason this conversation matters more than any other operator conversation is because the alternative is a six-figure FLSA judgment two years later. The bartender who got terminated last spring remembers every twenty.
+This conversation matters more than any other one you'll have as an operator. The alternative is a six-figure FLSA judgment two years later. And the bartender who got terminated last spring? He remembers every twenty.
 
 This is the post I wish my younger bartender self had read. Industry-cited, plain-English, and shaped by what I actually watched play out on the floor.
 
@@ -24,15 +24,15 @@ This is the post I wish my younger bartender self had read. Industry-cited, plai
 
 ## The two rules that aren't optional
 
-Strip everything else away. There are two FLSA rules that govern every tip pool in the United States, and every operator needs to know them cold.
+Strip everything else away. Two FLSA rules govern every tip pool in the country. Every operator needs to know them cold.
 
 ### Rule 1: Managers and supervisors are prohibited from receiving pooled tips
 
 Full stop. This was added to the Fair Labor Standards Act in March 2018 as part of the Consolidated Appropriations Act ([FLSA §3(m)(2)(B)](https://www.dol.gov/agencies/whd/fact-sheets/15-tipped-employees-flsa)). It applies regardless of whether the employer takes a tip credit, regardless of whether the manager performed tipped work during the shift, regardless of how the pool is structured, regardless of whether the manager's mom is in town and they really wanted to buy her dinner. (I am told that's not a defense.)
 
-If a person directs other employees, hires, fires, sets schedules, or otherwise functions as a supervisor, they cannot share in pooled tips. Even if they pour drinks for two hours during a Saturday rush. The DOL's test is functional, not titular. "Bartender slash floor lead slash kind-of-helps-with-the-schedule" is a manager. Treat them as one.
+If a person directs other employees, hires, fires, sets schedules, or otherwise functions as a supervisor, they can't share in pooled tips. Even if they pour drinks for two hours during a Saturday rush. The DOL's test is functional, not titular. So "bartender slash floor lead slash kind-of-helps-with-the-schedule" is a manager. Treat them as one.
 
-DOL enforcement on this is not subtle. The Wage and Hour Division publishes settlements regularly. Recent ones have included a Las Vegas restaurant group that paid $1.6M in back wages after managers shared in the tip pool, a Massachusetts steakhouse chain that paid $750K when shift supervisors received pool distributions, and a Florida resort restaurant that lost a class action because the assistant general manager, who occasionally bartended, received tips from the pool.
+DOL enforcement on this is not subtle. The Wage and Hour Division publishes settlements all the time. Recent ones include a Las Vegas restaurant group that paid $1.6M in back wages after managers shared in the tip pool, a Massachusetts steakhouse chain that paid $750K when shift supervisors received pool distributions, and a Florida resort restaurant that lost a class action because the assistant general manager, who occasionally bartended, took tips from the pool.
 
 I won't name them because the cases are public on dol.gov and they're easy to find. The pattern is identical every time. An owner or manager thinks "I helped on the floor tonight, I should get a cut." Two years later, the DOL cites three years of back wages, doubled as liquidated damages, plus the employer's attorney's fees, plus the employee's attorney's fees, plus a small but real chance of personal liability for the manager who took the cut. None of that math goes in your favor.
 
@@ -54,7 +54,7 @@ A "tip credit" means the employer pays tipped staff less than the full minimum w
 
 If you don't take a tip credit (you pay everyone full minimum wage or higher), the [2021 DOL final rule](https://www.dol.gov/agencies/whd/flsa/tips) says you *can* include BOH staff in the tip pool. Cooks and dishwashers can be in the pool, but managers and supervisors still can't, ever.
 
-This is where most operators get tripped up. They hear "you can include BOH" and they hear it the way a bartender hears "open bar." Selectively. They forget the part about needing to pay full minimum wage to everyone. Three years later they've got a class action they didn't see coming, and the cooks they thought were getting a nice bonus are now also collecting back wages.
+This is where most operators get tripped up. They hear "you can include BOH" and they hear it the way a bartender hears "open bar." Selectively. They forget the part about paying full minimum wage to everyone. Three years later they've got a class action they didn't see coming, and the cooks they thought were getting a nice bonus are collecting back wages too.
 
 ## States where the tip credit doesn't exist
 
@@ -68,13 +68,13 @@ Some states have eliminated the tip credit entirely. Tipped employees in these s
 - **Minnesota**, no tip credit
 - **Alaska**, no tip credit
 
-I ran the bar at Cosmos in California, which is why my picture of the rules is cleaner than most operators' is. We never had to do the tip-credit math. Every tipped employee was paid full state minimum wage in cash before tips. The pool eligibility rules collapsed into "is this person a manager? No? They're in." Which is a much easier conversation to have than the federal version.
+I ran the bar at Cosmos in California, which is why my picture of the rules is cleaner than most operators'. We never had to do the tip-credit math. Every tipped employee got full state minimum wage in cash before tips. So pool eligibility collapsed into one question: is this person a manager? No? They're in. Much easier conversation than the federal version.
 
 If you operate in any of the states above and you've been paying tipped staff less than the state minimum, you have a problem the size of three years of back wages times every employee. Get a labor attorney involved immediately. Yesterday, ideally.
 
 A handful of other states have a state-specific tipped minimum that's higher than the federal $2.13 (Hawaii, Connecticut, New York have versions of this, check your state's labor department directly). And some cities and counties have their own minimum wage rules that override state law. New York City, San Francisco, Seattle, Portland, and Denver are the big ones.
 
-The federal $2.13 floor only applies in states that haven't superseded it. As of 2026, about 16 states still allow the federal tipped minimum. The rest have either banned the tip credit outright or set a higher tipped minimum.
+The federal $2.13 floor only applies in states that haven't superseded it. As of 2026, about 16 states still allow the federal tipped minimum. The rest have either banned the tip credit outright or set their own higher tipped minimum. Know which bucket your state is in before you build a single thing.
 
 ## The 80/20/30 rule (and why it doesn't matter in 2026)
 
@@ -86,7 +86,7 @@ In **August 2024**, the U.S. Court of Appeals for the Fifth Circuit vacated the 
 
 That's three years of operators rebuilding their tip-credit policies twice. Not a typo.
 
-This does **not** mean you can pay servers $2.13 to do dishes for two hours. The general FLSA rule still applies: if a tipped employee performs work that's "unrelated to" their tipped occupation, the tip credit can't apply to that time. So a bartender doing four hours of inventory at the end of a shift is still problematic. But the rigid 20% / 30-minute counting is gone.
+This does **not** mean you can pay servers $2.13 to do dishes for two hours. The general FLSA rule still applies: if a tipped employee does work that's "unrelated to" their tipped occupation, the tip credit can't apply to that time. A bartender doing four hours of inventory at the end of a shift is still a problem. But the rigid 20% / 30-minute counting is gone.
 
 If your previous tip-pool policy was built around the 80/20/30 rule, talk to your attorney. Some of the side-work restrictions you put in place may no longer be required, but the underlying "unrelated work" rule still is.
 
@@ -98,7 +98,7 @@ In five years running a bar program, I watched a few patterns repeat. Here's wha
 
 **The "manager" who's really a senior server.** A floor lead who gets paid hourly, runs the schedule sometimes, and shares in the pool because they "still wait tables." The DOL's test is functional, not titular. I'm telling you that twice in this post on purpose. If they direct other staff or hire/fire, they're a supervisor, no matter what their pay structure says.
 
-**Cooks in the pool with tip credit on.** The owner heard about the 2021 rule allowing BOH inclusion and didn't catch the part about needing to pay full minimum wage. Three years later, every cook who passed through is owed back tips, plus liquidated damages, plus interest. The owner did not save money on labor. The owner has now lost considerably more.
+**Cooks in the pool with tip credit on.** The owner heard about the 2021 rule allowing BOH inclusion and didn't catch the part about paying full minimum wage. Three years later, every cook who passed through is owed back tips, plus liquidated damages, plus interest. He didn't save a dime on labor. He lost a lot more.
 
 **Tip-out percentages that don't add up.** The server tips out 5% of sales to bartenders, 3% to bussers, 1% to food runners, 2% to support staff. On a slow night, sales are down but tips are flat-ish, the percentages now add up to more than the server actually made. That gap comes out of the server's wages. That's a separate FLSA violation. Run the math weekly. Make sure tip-outs come from actual tips, not from the server's hourly.
 
@@ -112,7 +112,7 @@ This is what I built at Cosmos. I'd tell any operator setting up a pool to do ro
 
 2. **Pick one method and stick to it.** Hours-weighted is the simplest and the easiest to defend. Points-weighted works when role responsibilities differ meaningfully. Equal split works for small teams. Tip-out by % of sales works when servers are the primary tipped employees and others are support. Mixing methods mid-quarter is what gets you sued. (Also it's what gets your senior bartender to start updating their resume.)
 
-3. **Post the math every shift.** Pool total, hours, calculated share, dollar amount. On a clipboard. On the wall. So any team member can recount it in thirty seconds. Transparency kills the conspiracy theories before they start. The minute somebody on the team thinks the pool is rigged, the team is broken until the next reset, and the next reset costs you a night.
+3. **Post the math every shift.** Pool total, hours, calculated share, dollar amount. On a clipboard. On the wall. So anybody can recount it in thirty seconds. Posting it kills the conspiracy theories before they start. The minute somebody thinks the pool is rigged, the team is broken until the next reset, and that reset costs you a whole night.
 
 4. **Never include managers.** I cannot stress this enough. If you're not sure whether someone is a manager, treat them as one and exclude them. The cost of excluding a borderline person is zero. The cost of including them is six figures.
 
@@ -128,7 +128,7 @@ The tip pool calculator on this site supports four distribution methods (hours-w
 
 The math is the easy part. It always was. The discipline of running the math weekly, documenting it, and refusing the "just this once" exception when an owner asks for a cut, that's the entire game.
 
-That's the conversation I had to have more than once. It got smoother every time, in the way that delivering bad news gets smoother, which is to say, not very. It's the conversation that kept the bar I worked at out of trouble. And it's the conversation I wish more operators were having with their teams before they end up reading about themselves in a DOL enforcement bulletin.
+That's the conversation I had to have more than once. It got smoother every time, in the way delivering bad news gets smoother, which is to say not very. But it kept the bar I worked at out of trouble. And it's the one I wish more operators were having with their teams before they end up reading about themselves in a DOL enforcement bulletin.
 
 ## Sources cited
 

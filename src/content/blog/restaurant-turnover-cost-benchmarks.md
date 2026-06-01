@@ -16,9 +16,9 @@ This is the version of turnover cost I wish somebody had run for me on a napkin 
 
 ## The $5,864 number
 
-Restaurant industry turnover sits around **75-77% annually** for hourly employees (NRA 2024 Industry Factbook). That means on a fifty-person team, you replace thirty-seven to thirty-nine people every year. Some of them quit. Some you fire. The number rolls in either direction.
+Restaurant industry turnover sits around **75-77% annually** for hourly employees (NRA 2024 Industry Factbook). On a fifty-person team, that's thirty-seven to thirty-nine people walking through the door and back out every year. Some quit. Some you fire. Either way you're paying to replace them.
 
-The cost per replacement of an hourly restaurant employee runs **$3,000-$7,000**, with the industry-weighted average around **$5,864** (HigherMe Restaurant Turnover Report, [7shifts Restaurant Statistics 2024](https://www.7shifts.com/blog/)). The number sounds high. It is not high. It is what it actually costs once you stop hiding the cost in other line items.
+The cost per replacement of an hourly restaurant employee runs **$3,000-$7,000**, with the industry-weighted average around **$5,864** (HigherMe Restaurant Turnover Report, [7shifts Restaurant Statistics 2024](https://www.7shifts.com/blog/)). That sounds high. It's not. It's what one quit actually costs once you stop hiding the cost in other line items.
 
 What is in the $5,864:
 
@@ -29,7 +29,7 @@ What is in the $5,864:
 - Customer impact (slower service, comps, repeat-visit damage during ramp): $300-1,200
 - Coverage cost while position is open (overtime for remaining staff, manager covering shifts): $400-1,000
 
-Some of these are line items you can see on the P&L. Most are not. They show up as "labor running 1.8 points hot this month" or "food cost up 0.6 points" or "Yelp went from 4.4 to 4.2 stars." The cost is real. It is just smeared.
+A couple of these you can see on the P&L. Most you can't. They show up as "labor running 1.8 points hot this month" or "food cost up 0.6 points" or "Yelp went from 4.4 to 4.2 stars." The cost is real. It's just smeared across six other lines so nobody calls it what it is.
 
 ## What 75% turnover means on your team
 
@@ -41,19 +41,19 @@ Run the math on your specific team.
 
 **A 100-person team at 75% turnover (chain operation):** 75 replacements per year, ~$440,000.
 
-For comparison, that 50-person operation is probably generating $1.5-2M in annual revenue. The turnover cost is **10-14% of revenue**, larger than the net profit margin on most independents. Most of it never shows up as "turnover cost" anywhere on the P&L. It is hidden inside food cost (waste from new hires), labor (overtime for coverage), and the slow erosion of repeat customer visits.
+For comparison, that 50-person operation is probably generating $1.5-2M in annual revenue. The turnover cost is **10-14% of revenue**, larger than the net profit margin on most independents. None of it shows up labeled "turnover" anywhere on the P&L. It's hidden inside food cost (waste from new hires), labor (overtime for coverage), and the slow erosion of repeat customers who stopped coming back because their favorite bartender left.
 
-This is why retention spend almost always beats wage suppression. The line cook making fifty cents an hour less is not saving you $1,000 a year. He is costing you $5,000-$7,000 a year on average across the inevitable replacement cycle.
+This is why retention spend almost always beats wage suppression. The line cook making fifty cents an hour less isn't saving you $1,000 a year. He's costing you $5,000-$7,000 a year on average across the replacement cycle you're going to pay for whether you planned on it or not. I know, because I ran that exact trade and lost it.
 
 ## Why most quits happen in the first 90 days
 
 The pattern across industry data: **~50% of restaurant quits happen in the first 90 days** (HigherMe Restaurant Turnover Report, 7shifts).
 
-The first ninety days are where the relationship is being tested. The new hire is figuring out whether the manager is consistent. Whether the schedule actually matches what was promised in the interview. Whether the rest of the team is competent. Whether the side work assignments are fair. Whether the tip pool gets distributed correctly. Whether they can stack their shifts to get to school or pick up their kid.
+The first ninety days are a test, and the new hire is the one giving it. They're figuring out whether the manager is consistent. Whether the schedule actually matches what got promised in the interview. Whether the rest of the team is competent. Whether the side work is fair. Whether the tip pool gets split right. Whether they can stack their shifts to get to school or pick up their kid on time.
 
-Most of those tests fail at independents not because the operator is malicious but because nobody is paying close attention. The hire goes through the seven-day orientation, gets dropped on a Saturday night, makes three mistakes, gets yelled at by a stressed manager, and starts texting the friend who works at the place across the street. They do not quit immediately. They just stop showing up for a Tuesday lunch, and you find a different name on the schedule next week.
+Most of those tests fail at independents, and not because the operator is a bad guy. It's because nobody's paying attention. The hire goes through the seven-day orientation, gets dropped on a Saturday night, makes three mistakes, gets yelled at by a stressed manager, and starts texting the friend who works at the place across the street. They don't quit. Nobody quits. They just stop showing up for a Tuesday lunch, and you find a different name on the schedule next week.
 
-The implication for retention spending: **the first ninety days are where the ROI is**. A $200 manager investment in onboarding (longer training, structured check-ins at 30/60/90, a written tip-pool explanation) saves the $5,864 replacement cost at a 50:1 ratio if it prevents one quit.
+So for retention spending, **the first ninety days are where the ROI is**. A $200 manager investment in onboarding (longer training, structured check-ins at 30/60/90, a written tip-pool explanation) saves the $5,864 replacement cost at a 50:1 ratio if it stops one quit. There is no other line in your budget that pays like that.
 
 ## The retention math you can run today
 
@@ -63,16 +63,16 @@ Take a $1,000 retention bonus paid at the 90-day mark. The math at average indus
 - Quit prevention: prevents one quit at 50% probability (industry-average ninety-day quit rate)
 - Expected savings: $5,864 × 0.50 = $2,932
 
-ROI: **2.9x**. That is a $1 in returns $2.93. Run it across a 30-person team where you'd typically lose 22 people a year and you are talking about a $30,000 retention spend that prevents fifteen quits (at half the team passing the 90-day mark) for $88,000 in saved replacement cost. **Net benefit: $58,000.**
+ROI: **2.9x**. Every $1 in returns $2.93. Run it across a 30-person team where you'd typically lose 22 people a year and you're looking at a $30,000 retention spend that prevents fifteen quits (at half the team passing the 90-day mark) for $88,000 in saved replacement cost. **Net benefit: $58,000.**
 
 The number is sensitive to:
 - The probability a bonus actually changes the quit decision (in practice 40-60%, not 100%)
 - The actual replacement cost in your specific operation (range $3K-$7K)
 - Whether the bonus is the right intervention versus structural fixes (schedule predictability, manager training, tip pool clarity)
 
-But the headline result is robust. **At industry-average numbers, almost any spend below $2,500 per retained employee pencils.** That includes signing bonuses, retention bonuses, training investments, schedule-predictability premiums, manager training spend, and even one-time gestures like covering the cost of a uniform replacement.
+But the headline holds up no matter how you poke at it. **At industry-average numbers, almost any spend below $2,500 per retained employee pencils.** Signing bonuses, retention bonuses, training, schedule-predictability premiums, manager training spend, even one-time stuff like eating the cost of a uniform replacement. If it keeps somebody past day 90 and it's under $2,500, it's worth it.
 
-The math falls apart when the bonus is treated as an annuity (paid every year). Paid once, at 90 days, against a 50% quit-prevention rate, the ROI is strong. Paid every six months in perpetuity, the ROI compresses fast because most of the retention value comes from clearing the 90-day cliff.
+Where the math falls apart is treating the bonus like an annuity you pay every year. Paid once, at 90 days, against a 50% quit-prevention rate, the ROI is strong. Paid every six months forever, it compresses fast, because most of the retention value comes from clearing the 90-day cliff and there's only one cliff.
 
 ## The exit interview pattern that keeps coming back
 
@@ -80,29 +80,29 @@ Every operator who runs exit interviews learns the same thing within the first t
 
 The form says "compensation." The real reason is the manager. The form says "scheduling." The real reason is the manager. The form says "career growth." The real reason is the manager.
 
-This is consistent across published research (Gallup State of the American Workplace, Cornell Hospitality Quarterly studies, 7shifts hourly worker surveys). **People do not quit jobs. They quit managers.** In restaurant operations specifically, the manager is the single largest controllable retention variable.
+This shows up across published research too (Gallup State of the American Workplace, Cornell Hospitality Quarterly studies, 7shifts hourly worker surveys). **People do not quit jobs. They quit managers.** In a restaurant, the manager is the single biggest retention lever you actually control, and most operators spend zero dollars on it.
 
-That implies the highest-ROI retention spend in most operations is not bonuses. It is **manager training**. A weekend course on running a one-on-one. A standing thirty-minute check-in slot with every hourly hire at days 30, 60, 90. A written rubric on what good supervision looks like (not yelling on the line, addressing problems privately, recognizing wins publicly, being consistent on schedule promises). The cost is the manager's time and maybe a few hundred dollars in training material. The payback is in retained employees the manager would otherwise have run off.
+So the highest-ROI retention spend in most operations isn't bonuses at all. It's **manager training**. A weekend course on running a one-on-one. A standing thirty-minute check-in with every hourly hire at days 30, 60, 90. A written rubric on what good supervision looks like: don't yell on the line, handle problems privately, recognize wins out loud, keep your schedule promises. The cost is the manager's time and maybe a few hundred bucks in material. The payback is the people that manager would otherwise have run off, one bad Saturday at a time.
 
 ## Schedule predictability beats schedule flexibility
 
 A finding that surprised me when I first read it: **predictability ranks higher than flexibility** in restaurant retention surveys (Cornell, 7shifts).
 
-Workers will accept fewer hours, less choice, and tighter constraints if the schedule is published far enough in advance and is honored. The frustration comes from the schedule being published Thursday afternoon for Monday morning. From getting cut after the rush dies on a slow Wednesday. From being called in on a day off because somebody else called out.
+Workers will take fewer hours, less choice, and tighter constraints if the schedule goes up early and you actually honor it. What burns them is the schedule landing Thursday afternoon for Monday morning. Getting cut after the rush dies on a slow Wednesday. Getting called in on a day off because somebody else no-showed and now it's their problem.
 
-Operators who post schedules two weeks in advance, who honor posted shifts even when business is slow, and who let workers manage their own swaps with manager approval consistently retain better than operators who run wide-open schedule control. The cost of giving up that schedule control is some lost flexibility on slow nights. The benefit is a measurable retention lift, which translates directly to the $5,864-per-quit cost avoided.
+Operators who post two weeks out, honor the posted shifts even on a dead night, and let workers swap among themselves with manager approval retain better than the ones white-knuckling every shift. What you give up is a little flexibility on slow nights. What you get back is a real retention lift, which is the $5,864-per-quit cost you didn't have to eat.
 
-This is the kind of retention move where the financial benefit far exceeds the operational cost, but the operator has to choose to give up a small amount of optionality to get the larger benefit. Most do not. That is why turnover stays at 75%.
+It's a move where the money massively favors doing it, but you have to give up a little control to get the bigger win. Most operators won't. They'd rather keep the optionality and complain about turnover. That's why it stays at 75%.
 
 ## What to do today
 
 Three quick wins, in order of effort.
 
-**Today (zero cost):** Write down the names of your three best hourly employees. The ones whose absence would hurt. Schedule a fifteen-minute conversation with each of them this week. Ask them what would make them leave. Listen. Do not try to fix it on the spot. Just listen. Most operators have never done this and would be shocked at the answers.
+**Today (zero cost):** Write down the names of your three best hourly employees. The ones whose absence would actually hurt. Schedule a fifteen-minute conversation with each of them this week and ask what would make them leave. Then listen. Don't fix it on the spot, don't get defensive, just listen. Most operators have never once done this, and the answers would knock them over.
 
-**This week (low cost):** Pull your last six exit interviews if you have them. If you don't have them, pull your last six employee terminations or quits and write down what the real reason was based on your own knowledge. Look for the pattern. The pattern is almost always one of three things: schedule, manager, pay. Pick the one that shows up most often and fix it structurally.
+**This week (low cost):** Pull your last six exit interviews. No exit interviews? Pull your last six quits and terminations and write down the real reason from what you already know. Look for the pattern. It's almost always schedule, manager, or pay. Pick the one that shows up most and fix it structurally, not with a one-off bonus.
 
-**This month (higher cost, higher return):** Calculate your real turnover cost. The [turnover cost calculator](/calculators/turnover-cost/) on this site asks for your team size, your annual turnover rate, and the components of replacement cost specific to your operation. It returns the annual dollar figure. That number is almost always larger than operators expect. Use it to justify whatever the structural fix is going to cost.
+**This month (higher cost, higher return):** Calculate your real turnover cost. The [turnover cost calculator](/calculators/turnover-cost/) on this site takes your team size, your annual turnover rate, and the replacement-cost pieces specific to your operation, and hands you the annual dollar figure. It's almost always bigger than you think. Use that number to justify whatever the structural fix costs, because the fix is cheaper than the bleed every single time.
 
 ## Quick reference
 

@@ -8,7 +8,7 @@ relatedCalc: "inventory-variance"
 heroImage: "/illustrations/inventory-variance.webp"
 ---
 
-Every operator who has ever pulled a food cost report wondered why the number was higher than the recipes said it should be. The gap has a name: variance. It is the difference between what your recipes predict you should be spending and what your invoices and inventory say you actually spent. Variance is the operational quality signal nobody puts on a P&L line.
+Every operator who has ever pulled a food cost report has wondered why the number came in higher than the recipes said it should. That gap is variance: the difference between what your recipes predict you should spend and what your invoices and inventory say you actually spent. Nobody puts it on a P&L line, but it's the cleanest read you'll get on how the kitchen is actually running.
 
 ## The two numbers
 
@@ -28,23 +28,23 @@ If your beginning inventory was $11,400, purchases were $24,800, and ending inve
 
 > **Variance % = (Actual COGS − Theoretical COGS) ÷ Sales × 100**
 
-A 5% variance on $86,000 in sales is **$4,300 of unaccounted food cost** that month. Multiply by 12 months and that is $51,600 a year of cost the recipes did not predict.
+A 5% variance on $86,000 in sales is **$4,300 of unaccounted food cost** that month. Multiply by 12 months and that's $51,600 a year of cost the recipes never predicted. That's a person's salary walking out the back door.
 
 ## What variance actually measures
 
-The variance number tells you the gap between recipe-predicted cost and reality. The causes, in rough order of size in most operations:
+The number tells you the size of the gap between recipe-predicted cost and reality. It doesn't tell you why. Here are the usual suspects, in rough order of how much damage they do in most operations:
 
 **1. Waste and spoilage** (typically 1-3% of food cost): Produce that goes bad before sale, proteins that get prepped and not used, line waste during service.
 
 **2. Theft** (0-2%): Walk-out theft, employee theft of inventory, vendor short-shipping that gets booked as full delivery.
 
-**3. Portion drift** (1-3%): Recipes say 4 oz of cheese; the line is pulling 5. Recipes say 6 oz protein; the cook is plating 6.5. Across a full shift this adds up.
+**3. Portion drift** (1-3%): Recipes say 4 oz of cheese; the line is pulling 5. Recipes say 6 oz protein; the cook is plating 6.5. Nobody's trying to rob you. They're just being generous with somebody else's money, and across a full shift it adds up fast.
 
 **4. Recipe non-compliance** (0.5-2%): Substituting more expensive ingredients when the cheaper one is out. Adding a side that wasn't in the recipe. Putting an extra portion of bacon "to be generous."
 
 **5. Pricing drift** (0.5-2%): Ingredient cost went up but the recipe cost wasn't updated. You are pricing menu items against last quarter's food cost while paying this quarter's prices.
 
-Sum the typical ranges: **2.5-12% variance is normal**. The healthy operations sit at 2-3%. The struggling operations live at 6-10% and wonder where the margin went.
+Add up the typical ranges and **2.5-12% variance is normal**. Healthy operations sit at 2-3%. The struggling ones live at 6-10% and stand around wondering where the margin went.
 
 ## Acceptable variance bands by segment
 
@@ -58,7 +58,7 @@ Industry standard variance bands (Restaurant365, MarginEdge, Supy):
 - **Sushi:** 4-7% (perishability waste is inherent)
 - **Bakery:** 2-5%
 
-If your variance runs above these bands, the gap is operational drift, not normal noise. The fix is in one of the five categories above.
+Run above these bands and you're not looking at normal noise anymore. That's drift, and the fix is sitting in one of the five categories above.
 
 ## A worked example
 
@@ -74,32 +74,32 @@ Casual full-service restaurant.
 
 **Variance %:** $4,400 ÷ $98,000 = **4.5%**
 
-This is at the top end of acceptable for casual full-service (3-5%). The operation is running within band but should track downward, not upward. A move to 5.5% or 6% would push into the diagnostic zone where one of the five causes is taking real margin.
+That's the top end of acceptable for casual full-service (3-5%). Still in band, but it should be tracking down, not up. Let it creep to 5.5% or 6% and you're in the diagnostic zone, where one of the five causes is eating real margin.
 
-The diagnostic order at 4.5%:
+Here's the order I'd work it at 4.5%:
 1. Check the protein invoices versus protein plates sold. If you bought 200 lb of beef and the burger sales mix says you should have used 180 lb, the 20 lb gap is at least $80 of variance traceable to protein-side waste or theft.
 2. Walk the line during service and watch the plating. Eyeball 10 plates, weigh 3 of them. If portion drift is the problem, this catches it in 30 minutes.
 3. Pull your recipe costs and compare to current invoice pricing. If beef went from $4.20 to $4.65/lb but the recipe still costs at $4.20, your theoretical is artificially low.
 
-Most variance problems are findable in 2-3 hours of focused investigation. The fix typically takes longer than the diagnosis.
+Most variance problems are findable in 2-3 hours of focused work. The fix usually takes a lot longer than the diagnosis, but at least you know what you're fixing.
 
 ## The five places variance hides
 
-**1. The receiving dock.** When deliveries arrive and the receiver checks "X cases" without weighing or counting individual items, vendor short-shipments and damaged goods get booked at full delivery value. Variance lives here as "purchases that didn't actually become inventory."
+**1. The receiving dock.** A delivery shows up, the receiver checks "X cases" without weighing or counting the items inside, and the vendor short-shipment and the damaged goods get booked at full delivery value. That's a purchase that never became inventory. The variance is hiding right there on the invoice you signed without looking.
 
-**2. The prep table.** Aggressive prep on slow days = waste. A line cook who breaks down a case of romaine on Wednesday for Saturday service has a Wednesday-prep romaine that is questionable by Friday. The honest fix: prep against forecast, not against habit.
+**2. The prep table.** Aggressive prep on a slow day is just waste with a head start. A line cook who breaks down a case of romaine on Wednesday for Saturday service has Wednesday-prep romaine that's already questionable by Friday. Prep against the forecast, not against habit.
 
-**3. The expo line.** Plating drift. A 6 oz steak that gets plated at 6.4 oz is 6.7% over-portioned. Variance lives here as "theoretical predicted X, line plated Y, and the gap is the variance."
+**3. The expo line.** Plating drift. A 6 oz steak that goes out at 6.4 oz is 6.7% over-portioned, every single plate. Theoretical predicted one number, the line plated another, and the gap is your variance.
 
-**4. The walk-in cooler.** First-in-first-out (FIFO) compliance, or the lack of it. New product going in front of old product means old product spoils. Standard restaurant waste rate from FIFO failures: 1-2% of food cost.
+**4. The walk-in cooler.** FIFO compliance, or the total lack of it. Put new product in front of old product and the old product dies in the back. Standard restaurant waste rate from FIFO failures runs 1-2% of food cost, and it's the easiest 1-2% you'll ever win back.
 
-**5. The dumpster.** Literal food waste. Bread that hardens, vegetables that wilt, proteins that hit their date. Most operations significantly underestimate this category until someone weighs the dumpster.
+**5. The dumpster.** Actual, literal food waste. Bread that hardens, vegetables that wilt, proteins that hit their date and get tossed. Most operations badly underestimate this one until somebody actually weighs the dumpster. Do it once. The number will ruin your afternoon.
 
 ## How to reduce variance
 
-The variance number does not lie, but it can be reduced through specific operational fixes.
+The variance number doesn't lie. But you can move it, and every fix below is something a manager can run starting this week.
 
-**Receiving:** Weigh everything. Use a scale, not a "looks about right." Reject damaged goods. Note short-shipments on the invoice and call the vendor before paying.
+**Receiving:** Weigh everything. Use a scale, not a "looks about right." Reject damaged goods. Note short-shipments on the invoice and call the vendor before you pay, not after.
 
 **Prep:** Forecast-based prep schedules. The Wednesday prep for Saturday service is rarely worth the waste.
 
@@ -109,9 +109,9 @@ The variance number does not lie, but it can be reduced through specific operati
 
 **Recipes:** Update recipe costs quarterly against current invoice pricing. Recost when a major ingredient moves more than 5%.
 
-**Comping and waste tracking:** Every comp and every line-waste event gets logged. The log itself changes behavior because line cooks know it is being watched.
+**Comping and waste tracking:** Log every comp and every line-waste event. The log changes behavior all by itself, because the second cooks know it's being watched, the waste drops.
 
-A focused 90-day variance reduction program typically moves an operation from 6-8% variance to 3-4%, which on a $1.2M food revenue base is $30-48K in recovered margin annually.
+A focused 90-day variance reduction program typically moves an operation from 6-8% variance down to 3-4%. On a $1.2M food revenue base, that's $30-48K in recovered margin a year. Same menu, same sales, you just stopped leaking it.
 
 ## What this looks like in the calculator
 
@@ -119,8 +119,8 @@ The [inventory variance calculator](/calculators/inventory-variance/) on this si
 
 ## What to do today
 
-Pull last month's theoretical food cost (your POS or inventory software can usually generate this from recipe data) and last month's actual food cost. Calculate the gap as a percentage of food sales. Compare to your segment's acceptable variance band.
+Pull last month's theoretical food cost. Your POS or inventory software can usually spit this out from recipe data. Pull last month's actual food cost too, run the gap as a percentage of food sales, and put it next to your segment's acceptable band.
 
-If you are within band, run the diagnostic anyway to keep variance trending downward. If you are above band, the diagnostic is the priority work for the next two weeks. The recovered margin pays for the time.
+Within band? Run the diagnostic anyway and keep the number trending down. Above band? That diagnostic is your priority work for the next two weeks, no debate. The margin you recover pays for the time, and then some.
 
 Sources: [Restaurant365](https://www.restaurant365.com/), [MarginEdge](https://www.marginedge.com/blog/), [Supy](https://supy.io/), [Toast](https://pos.toasttab.com/), CrunchTime Information Systems.

@@ -8,11 +8,11 @@ relatedCalc: "catering-pricing"
 heroImage: "/illustrations/catering-pricing.webp"
 ---
 
-Catering looks like a margin win until you actually run the numbers. The pitch sounds great: $40 per head × 80 guests = $3,200 ticket, food cost 30%, "easy money." The reality includes load-out labor, drive time both ways, on-site setup, breakdown, and equipment costs that don't show up on the food cost line. Most operators undercount these and lose money on catering they thought was profitable.
+Catering looks like a margin win until you actually run the numbers. The pitch sounds great. $40 per head × 80 guests = $3,200 ticket, food cost 30%, "easy money." Then the part nobody puts in the spreadsheet shows up: load-out labor, drive time both ways, on-site setup, breakdown, and a stack of equipment costs that never touch the food cost line. Most operators undercount that stuff and lose money on catering they were sure was profitable.
 
 ## The catering P&L (honest version)
 
-Catering looks different from dine-in service. The cost structure includes pieces that dine-in operations don't have.
+Catering doesn't run like dine-in. There are line items here that a dining room never has to think about.
 
 **Catering food cost:** 28-35% target (Galley Solutions, Tripleseat)
 **Catering labor cost:** 25-35% of revenue (much higher than dine-in)
@@ -24,7 +24,7 @@ Catering looks different from dine-in service. The cost structure includes piece
 **Total target cost structure:** 70-90%
 **Target net profit:** 7-15%
 
-The big variables: labor and travel. Both scale with off-site complexity. A drop-off catering job (food delivered, no on-site service) runs much closer to dine-in economics. A full-service catered event (servers, bartenders, on-site cooking, breakdown) runs significantly higher labor cost.
+The two that move everything are labor and travel, and both get worse the further off-site you go. Drop off the food with no on-site service and you're basically back to dine-in economics. Send servers, bartenders, and a cook to fire entrées on location, then break the whole thing down at midnight, and your labor cost climbs fast.
 
 ## A worked example: 80-person event
 
@@ -48,7 +48,7 @@ The big variables: labor and travel. Both scale with off-site complexity. A drop
 - On-site bartender (1 × 5 hours × $25): $125
 - Breakdown labor (2 people × 1.5 hours × $25): $75
 - Coordinator on-site (1 × 6 hours × $30 manager-loaded): $180
-Hmm wait, that adds to $1,030. Let me adjust, coordinator was already in there: $1,030. Round to $980 means slightly lighter staffing. Real-world this would actually be $1,030-$1,100 fully loaded. Adjust: typical labor on a $3,200 event runs $950-$1,100.
+Hold on, that adds to $1,030, not $980. The coordinator was already in the stack. Getting it down to $980 means staffing a hair lighter than that. Real-world, fully loaded, you're looking at $1,030-$1,100. Call it this: typical labor on a $3,200 event runs $950-$1,100.
 
 **Travel cost:** $80 (2.5%)
 - Vehicle fuel and depreciation: $40
@@ -66,21 +66,21 @@ Hmm wait, that adds to $1,030. Let me adjust, coordinator was already in there: 
 **Total cost:** $2,646
 **Net profit:** $554 (17.3%)
 
-The healthy version of this event leaves $554 net on a $3,200 sale, or 17.3% margin. Higher than dine-in average. Achievable on well-priced and well-executed catering.
+Run it clean and this event leaves $554 net on a $3,200 sale, which is 17.3% margin. That's better than your dine-in average. Totally doable when you price it right and execute it right.
 
-The unhealthy version (under-priced, under-staffed-for-comfort which leads to overruns, or off-site complications): same revenue, $620 labor over-run, $200 in food waste from over-prep, ends up netting $0-200. Catering is high-variance compared to dine-in.
+Run it sloppy and the same $3,200 sale falls apart. Under-priced, under-staffed so the night turns into a scramble, throw in an off-site curveball, and you eat a $620 labor over-run plus $200 in food waste from over-prepping. Now you're netting $0-200. That swing is the whole point. Catering is way higher variance than dine-in.
 
 ## The four catering pricing components
 
-Most operators set catering prices on food cost percentage alone. The four-component approach is more accurate.
+Most operators price catering off food cost percentage and nothing else. That's the leak. Break it into four parts and the number you quote actually covers what the event costs you.
 
 **1. Per-head food price.** Standard food cost target (28-35%) applied to the food spend. A $14 cost per head at 30% target = $46.67 per head menu price.
 
-**2. Service charge.** A flat 18-22% mandatory service charge on the per-head subtotal. Covers off-site labor that exceeds dine-in labor allocation. NOT a gratuity. Must be clearly labeled as service charge for tax and tip-pool purposes.
+**2. Service charge.** A flat 18-22% mandatory service charge on the per-head subtotal. This is the bucket that covers all the off-site labor your dine-in pricing never accounts for. It is not a gratuity, and don't let anyone treat it like one. Label it clearly as a service charge or you'll create headaches for yourself on tax and tip-pool reporting.
 
-**3. Optional gratuity.** Suggested 18-22% on top of service charge. Goes to event staff as tips. Some operators bundle this into service charge and clarify the distribution; some keep them separate.
+**3. Optional gratuity.** Suggested 18-22% on top of the service charge. This part is the tip, and it goes to the event staff. Some operators roll it into the service charge and spell out exactly how it's split. Others keep the two completely separate. Either works as long as the guest can tell which is which.
 
-**4. Per-event flat fees.** Setup fee, delivery fee, equipment rental, bartending fee (per bartender per hour over minimum). These cover off-event-staff costs that don't scale with guest count.
+**4. Per-event flat fees.** Setup fee, delivery fee, equipment rental, bartending fee (per bartender per hour over minimum). These cover the costs that don't care how many guests show up.
 
 The pricing formula:
 
@@ -90,7 +90,7 @@ A 100-person event at $48 per head + 20% service + $200 setup + $150 delivery + 
 
 ## Minimum spend thresholds
 
-Catering events have setup, breakdown, and overhead costs that don't scale down. A 12-person event costs roughly 60% as much to execute as a 25-person event but produces 50% as much revenue. The economics get bad at small sizes.
+Setup, breakdown, and overhead don't shrink just because the guest list did. A 12-person event costs you roughly 60% of what a 25-person event costs to pull off, but it only brings in about 50% of the revenue. Go small enough and the math turns on you.
 
 **Industry-typical minimum spend thresholds:**
 - Drop-off catering: $200-500 minimum
@@ -99,40 +99,40 @@ Catering events have setup, breakdown, and overhead costs that don't scale down.
 - Plated dinner service: $3,000-5,000 minimum
 - Weddings: $5,000-10,000 minimum
 
-Below these minimums, the per-head cost structure doesn't support profit. Operators who do small events at standard pricing typically lose money on them and call it "marketing."
+Under those numbers, the per-head math just doesn't leave room for profit. Plenty of operators take the small gigs at standard pricing anyway, lose money on every one, and tell themselves it's "marketing."
 
 ## Off-site labor: the hidden cost
 
-The biggest catering pricing failure is undercounting off-site labor.
+If catering pricing blows up, this is almost always where it starts. Off-site labor.
 
 **Hidden labor components:**
 
-1. **Load-out time.** Packing the food into transport containers, loading the truck. 1-2 hours of kitchen staff time before any guest arrives.
-2. **Drive time both ways.** A 25-minute drive each way = 50 minutes of paid driving × 2-3 people who go to setup.
-3. **On-site setup.** Unpacking, heating, arranging the buffet, setting up bar, setting up service stations. 60-90 minutes.
-4. **Service window itself.** Buffet maintenance, bar service, passed apps, guest needs.
-5. **Breakdown.** Pack-out, cleaning service area, loading the truck back, drive back.
-6. **Post-event kitchen.** Unloading, cleaning equipment, restocking.
+1. **Load-out time.** Packing food into transport containers and loading the truck. That's 1-2 hours of kitchen staff on the clock before a single guest walks in.
+2. **Drive time both ways.** A 25-minute drive each way is 50 minutes of paid driving, times the 2-3 people you send to set up.
+3. **On-site setup.** Unpacking, heating, building the buffet, setting up the bar and the service stations. 60-90 minutes.
+4. **Service window itself.** Buffet maintenance, bar service, passed apps, whatever the guests need.
+5. **Breakdown.** Pack-out, cleaning the service area, loading the truck back up, driving home.
+6. **Post-event kitchen.** Unloading, cleaning equipment, restocking for tomorrow.
 
-A 4-hour guest event is typically 7-9 hours of paid staff time. If you priced labor at 4 hours, you priced for one-half to two-thirds of actual.
+A 4-hour guest event is usually 7-9 hours of paid staff time. Price labor at 4 hours and you just charged for somewhere between half and two-thirds of what you're actually paying out.
 
-The fix: price labor against total event hours (load-out through post-event cleanup), not against guest-facing hours.
+The fix is simple to say and easy to skip. Price labor against the total event hours, load-out through post-event cleanup, not the hours the guests are standing in front of you.
 
 ## Travel cost components
 
-Travel scales with distance, complexity, and labor.
+Travel cost moves with distance, venue complexity, and how many bodies you're hauling out there.
 
-**Drive time:** Already in labor calculation above.
+**Drive time:** Already counted in the labor math above.
 
-**Vehicle cost:** Depreciation + fuel + insurance allocation. For a delivery van running 25-mile round trips, ~$0.65/mile (IRS standard mileage rate is $0.67/mile for 2026, plus van-specific maintenance). A 25-mile round trip = $16.75.
+**Vehicle cost:** Depreciation + fuel + insurance allocation. For a delivery van running 25-mile round trips, figure ~$0.65/mile (IRS standard mileage rate is $0.67/mile for 2026, plus the extra a van costs to keep running). A 25-mile round trip = $16.75.
 
-**Parking:** Urban events often have $20-50 parking costs.
+**Parking:** Urban events will hit you with $20-50 in parking.
 
 **Setup/breakdown access:** Some venues charge dock fees, loading fees, after-hours fees.
 
-**Insurance riders:** Some events require additional liability coverage beyond your standard policy. $50-200 per event in larger weddings.
+**Insurance riders:** Some events need extra liability coverage on top of your standard policy. Figure $50-200 per event on the bigger weddings.
 
-Total travel cost for a typical off-site catering event: **$80-300** depending on distance and venue complexity. Build this into pricing or watch your margin disappear on the 45-minute drives.
+Total travel for a typical off-site job lands at **$80-300** depending on how far you're going and how much of a pain the venue is. Build it into the price. Skip it and your margin bleeds out on every 45-minute drive without you ever seeing where it went.
 
 ## Equipment and rental factoring
 
@@ -145,7 +145,7 @@ Equipment costs that show up across catering events:
 - **Disposables:** Napkins, plates, cups, utensils (for drop-off or casual events). Usually $1-3 per guest.
 - **Pop-up tents and weather protection:** $50-200 per event if owned, $200-500 if rented.
 
-Either own and amortize or rent and pass through. Don't ignore.
+You've got two honest options: own it and amortize it across events, or rent it and pass the cost straight through to the client. What you can't do is pretend it's free.
 
 ## When catering is profitable (and when it isn't)
 
@@ -165,18 +165,18 @@ Either own and amortize or rent and pass through. Don't ignore.
 - Equipment is rented at retail rates for every event
 - Pricing is set against dine-in food cost without adjusting for off-site complexity
 
-The healthy version produces 10-17% net margin. The unhealthy version produces -5% to +3%. The difference is pricing discipline, not concept quality.
+Done right, you're at 10-17% net margin. Done wrong, you're somewhere between -5% and +3%, which means you're working a full weekend to lose money or barely break even. Same kitchen, same menu, same crew. The only thing separating those two outcomes is whether you priced it with discipline.
 
 ## What this looks like in the calculator
 
-The [catering pricing calculator](/calculators/catering-pricing/) on this site takes per-head food cost, target food cost percentage, service charge percentage, optional gratuity, and per-event flat fees. It returns the per-head menu price, the full event price, and a breakdown of the cost structure with target margin.
+The [catering pricing calculator](/calculators/catering-pricing/) on this site takes per-head food cost, target food cost percentage, service charge percentage, optional gratuity, and per-event flat fees. It hands you back the per-head menu price, the full event price, and a breakdown of the cost structure with your target margin.
 
-Use it before committing to event pricing. Run it after every event with actual labor and food data to verify the model held.
+Run it before you quote anything. Then run it again after the event with your real labor and food numbers, so you can see whether the model actually held up or you were lying to yourself on the front end.
 
 ## What to do today
 
-Pull your last 10 catering events. Calculate net margin on each using full event-hour labor (load-out through post-event cleanup). Compare to what you thought margin was at the time of booking. The gap is the diagnostic on your pricing structure.
+Pull your last 10 catering events. Run net margin on each one using full event-hour labor, load-out through post-event cleanup. Now line that up against what you thought the margin was when you booked it. That gap right there tells you everything about your pricing structure.
 
-If three or more of the ten ran below 8% net margin, your catering operation is structurally under-priced. The fix is either raising minimum spend, raising per-head pricing, or raising service charge. Pick the lever that the market will accept.
+If three or more of the ten came in under 8% net margin, you're structurally under-priced. Period. You fix it by raising the minimum spend, raising the per-head, or raising the service charge. Pick whichever lever your market will actually swallow and pull it.
 
 Sources: [Galley Solutions](https://galley.io/), [Tripleseat](https://www.tripleseat.com/), [FreshBooks catering guides](https://www.freshbooks.com/), [Toast catering reports](https://pos.toasttab.com/), [Restaurant Business Online catering coverage](https://www.restaurantbusinessonline.com/).
